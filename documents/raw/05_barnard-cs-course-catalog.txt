@@ -1,0 +1,349 @@
+COMS BC1016 Introduction to Computational Thinking and Data Science. 3.00 points .
+This course and its co-requisite lab course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. The course is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or college-level math background is required
+
+COMS BC1017 Introduction to Computational Thinking and Data Science - Lab. 1.00 point .
+This is the co-requisite lab to COMS BC 1016 (Introduction to Computational Thinking and Data Science) This course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. This class is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or math background is required
+
+COMS BC3099 INDEPENDENT STUDY. 1.00-4.00 points .
+Independent Study. Instructor permission required
+
+COMS BC3159 Parallel Optimization for Robotics. 3.00 points .
+Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project
+
+COMS BC3162 DEVELOPING ACCESSIBLE USER INTERFACES. 3.00 points .
+Introduction to access technology and the development of accessible systems. In this course, students build and evaluate various access technologies. Topics include: text-to-speech, speech recognition, screen readers, screen magnification, alternative input, tactile displays, and web transformation. This course teaches students the deep inner workings of today’s user interface technology and serve as a guide for building the user interfaces of the future
+
+COMS BC3364 Introduction to Contextual Design for Technology. 3 points .
+
+COMS BC3420 PRIVACY IN A NETWORKED WORLD. 4.00 points .
+The ubiquity of computers and networks in business, government, recreation, and almost all aspects of daily life has led to a proliferation of online sensitive data: data that, if used improperly, can harm the data subjects. As a result, concern about the use, ownership, control, privacy, and accuracy of these data has become a top priority. This seminar course focuses on both the technical challenges of handling sensitive data, the privacy implications of various technologies, and the policy and legal issues facing data subjects, data owners, and data users
+
+COMS BC3430 Computational Sound. 3.00 points .
+In this course, we explore the variety of roles that computation can play in the analysis, creation, and performance of music. We start with the fundamentals of sound in the digital domain, covering issues of representation and audio synthesis. We then move through various synthesis techniques including the additive, subtractive, frequency modulation (FM), and amplitude modulation (AM) synthesis. After covering some core DSP techniques, we put these concepts into performative practice by exploring “live coding”. In the space of live coding, we examine various programming language designs to understand how various domain specific languages (DSLs) support live coding. For the third module, we turn our focus to automated composition and analysis, addressing challenges in music information retrieval, generative art, and autonomous improvisation systems. All the while, we continue to develop our fluency in live coding by putting new topics to practice
+
+COMS BC3930 Creative Embedded Systems. 3.00 points .
+Ubiquitous computing is creating new canvases and opportunities for creative ideas. This class explores the use of microprocessors, distributed sensor networks, IoT, and intermedia systems for the purposes of creative expression. The course is delivered in a mixed lecture and lab format that introduces the fundamental concepts and theory behind embedded systems as well as issues particular to their creative employment. The key objective of the course is for students to conceive of and implement creative uses of computation
+
+COMS W1001 INTRO TO INFORMATION SCIENCE. 3.00 points .
+Basic introduction to concepts and skills in Information Sciences: human-computer interfaces, representing information digitally, organizing and searching information on the internet, principles of algorithmic problem solving, introduction to database concepts, and introduction to programming in Python
+
+COMS W1002 COMPUTING IN CONTEXT. 4.00 points .
+Introduction to elementary computing concepts and Python programming with domain-specific applications. Shared CS concepts and Python programming lectures with track-specific sections. Track themes will vary but may include computing for the social sciences, computing for economics and finance, digital humanities, and more. Intended for nonmajors. Students may only receive credit for one of ENGI E1006 or COMS W1002
+
+COMS W1003 INTRO-COMPUT SCI/PROGRAM IN C. 3.00 points .
+
+COMS W1004 PROGRAMMING IN JAVA. 3.00 points .
+
+COMS W1005 INTRO-COMPUT SCI/PROG-MATLAB. 3.00 points .
+
+COMS W1011 INTERMED COMPUTER PROGRAMMING. 3.00 points .
+
+COMS W1012 COMPUTING IN CONTEXT REC. 0.00 points .
+
+COMS W1103 HONORS INTRO COMPUTER SCIENCE. 3.00 points .
+
+COMS W1404 EMERGING SCHOLARS PROG SEMINAR. 1.00 point .
+Prerequisites: Students must be enrolled in an introductory computing course. 
+ Corequisites: COMS W1001 , COMS W1002 , COMS W1004 , COMS W1005 , ENGI W1006 ,COMS X1016
+
+COMS W2132 Intermediate Computing in Python. 4.00 points .
+Prerequisites: ( ENGI E1006 ) or ( COMS W1002 ) or equivalent prior programming background in Python.
+
+COMS W2702 AI in Context. 3.00 points .
+Prerequisites: STAT UN1201 or equivalent is strongly recommended.
+
+COMS W3011 INTERMED COMPUTER PROGRAMMING. 3.00 points .
+
+COMS W3101 PROGRAMMING LANGUAGES. 1.00 point .
+Prerequisites: Fluency in at least one programming language. 
+Introduction to a programming language. Each section is devoted to a specific language. Intended only for those who are already fluent in at least one programming language. Sections may meet for one hour per week for the whole term, for three hours per week for the first third of the term, or for two hours per week for the first six weeks. May be repeated for credit if different languages are involved
+
+COMS W3102 DEVELOPMENT TECHNOLOGY. 1.00-2.00 points .
+Prerequisites: Fluency in at least one programming language. 
+Introduction to software development tools and environments. Each section devoted to a specific tool or environment. One-point sections meet for two hours each week for half a semester, and two point sections include an additional two-hour lab
+
+COMS W3107 Clean Object-Oriented Design. 3.00 points .
+Prerequisites: COMS W1004 or permission of instructor. May not take for credit if already received credit for COMS W1007
+
+COMS W3123 ASSEMBLY LANG AND COMPUT LOGIC. 3.00 points .
+
+COMS W3132 Intermediate Computing in Python. 4.00 points .
+Prerequisites: ENGI E1006 OR COMS W1002 ; or equivalent Python programming experience. Intermediate interdisciplinary course in computing intended for non-CS majors. 
+Essential data structures and algorithms in Python with practical software development skills, applications in a variety of areas including biology, natural language processing, data science and others
+
+COMS W3134 Data Structures in Java. 3 points .
+Prerequisites: ( COMS W1004 ) or COMS W1004 ; Knowledge of Java
+
+COMS W3136 ESSENTIAL DATA STRUCTURES. 4.00 points .
+Prerequisites: ( COMS W1004 ) or ( COMS W1005 ) or (COMS W1007) or ( ENGI E1006 ) COMS W1005 OR COMS W1007 OR ENGI E1006 OR COMS W1004 
+A second programming course intended for nonmajors with at least one semester of introductory programming experience. Basic elements of programming in C and C , arraybased data structures, heaps, linked lists, C programming in UNIX environment, object-oriented programming in C , trees, graphs, generic programming, hash tables. Due to significant overlap, students may only receive credit for either COMS W3134 , W3136 , or W3137
+
+COMS W3137 HONORS DATA STRUCTURES ＆ ALGOL. 4.00 points .
+Prerequisites: ( COMS W1004 ) or (COMS W1007) COMS W1004 OR COMS W1007 
+ Corequisites: COMS W3203 
+An honors introduction to data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Design and analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134 , W3136 , or W3137
+
+COMS W3157 ADVANCED PROGRAMMING. 4.00 points .
+Prerequisites: ( COMS W3134 ) or ( COMS W3137 ) COMS W3134 OR COMS W3137 
+C programming language and Unix systems programming. Also covers Git, Make, TCP/IP networking basics, C fundamentals
+
+COMS W3202 FINITE MATHEMATICS. 3.00 points .
+
+COMS W3203 DISCRETE MATHEMATICS. 4.00 points .
+Prerequisites: Any introductory course in computer programming. 
+Logic and formal proofs, sequences and summation, mathematical induction, binomial coefficients, elements of finite probability, recurrence relations, equivalence relations and partial orderings, and topics in graph theory (including isomorphism, traversability, planarity, and colorings)
+
+COMS W3204 FINITE MATHEMATICS. 3.00 points .
+
+COMS W3205 INTRO TO DISCRETE STRUCTURES. 3.00 points .
+
+COMS W3210 SCIENTIFIC COMPUTATION. 3.00 points .
+Prerequisites: two terms of calculus.
+
+COMS W3240 ELEMENTARY NUMERICAL ANALYSIS. 3.00 points .
+
+COMS W3244 PROBABILITY AND MATRIX MODELS. 3.00 points .
+
+COMS W3251 COMPUTATIONAL LINEAR ALGEBRA. 4.00 points .
+
+COMS W3252 SCIENTIFIC COMPUTATION II. 3.00 points .
+
+COMS W3261 COMPUTER SCIENCE THEORY. 3.00 points .
+Prerequisites: ( COMS W3203 ) 
+ Corequisites: COMS W3134 , COMS W3136 , COMS W3137
+
+COMS W3410 COMPUTERS AND SOCIETY. 3.00 points .
+Broader impact of computers. Social networks and privacy. Employment, intellectual property, and the media. Science and engineering ethics. Suitable for nonmajors
+
+COMS W3770 Mathematics for Machine Learning. 3.00 points .
+Prerequisites: ( MATH UN2010 or MATH UN2015 or APMA E2101 or APMA E3101 or COMS W3251 ) and ( MATH UN1201 or MATH UN1205 or APMA E2000 ) and ( STAT UN1201 or MATH UN2015 or IEOR E3658 ) Familiarity with mathematical proof writing
+
+COMS W3902 UNDERGRADUATE THESIS. 0.00-6.00 points .
+Prerequisites: Agreement by a faculty member to serve as thesis adviser. 
+An independent theoretical or experimental investigation by an undergraduate major of an appropriate problem in computer science carried out under the supervision of a faculty member. A formal written report is mandatory and an oral presentation may also be required. May be taken over more than one term, in which case the grade is deferred until all 6 points have been completed. Consult the department for section assignment
+
+COMS W3995 TOPICS IN COMPUTER SCIENCE. 3.00 points .
+
+COMS W3998 UNDERGRAD PROJECTS IN COMPUTER SCIENCE. 1.00-3.00 points .
+Prerequisites: Approval by a faculty member who agrees to supervise the work. 
+Independent project involving laboratory work, computer programming, analytical investigation, or engineering design. May be repeated for credit. Consult the department for section assignment
+
+COMS W3999 FIELDWORK. 1.00 point .
+Prerequisites: Obtained internship and approval from faculty advisor 
+May be repeated for credit, but no more than 3 total points may be used toward the 128-credit degree requirement. Only for SEAS computer science undergraduate students who include relevant off campus work experience as part of their approved program of study. Final report and letter of evaluation may be required. May not be used as a technical or nontechnical elective or as a GTE (general technical elective). May not be taken for pass/fail credit or audited
+
+COMS W4111 INTRODUCTION TO DATABASES. 3.00 points .
+Prerequisites: ( COMS W3134 ) and ( COMS W3136 ) and ( COMS W3137 ) COMS W3134 , COMS W3136 , or COMS W3136 ; or instructor's permission
+
+COMS W4112 DATABASE SYSTEM IMPLEMENTATION. 3.00 points .
+Prerequisites: ( COMS W4111 ) and COMS W4111 ; fluency in Java or C++. CSEE W3827 is recommended. 
+The principles and practice of building large-scale database management systems. Storage methods and indexing, query processing and optimization, materialized views, transaction processing and recovery, object-relational databases, parallel and distributed databases, performance considerations. Programming projects are required
+
+COMS W4113 FUND-LARGE-SCALE DIST SYSTEMS. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3157 or COMS W4118 or CSEE W4119 ) COMS W3134 , W3136 , or W3137 . COMS W3157 or good working knowledge of C and C++. COMS W4118 or CSEE W4119 . 
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3157 or COMS W4118 or CSEE W4119 ) Design and implementation of large-scale distributed and cloud systems. Teaches abstractions, design and implementation techniques that enable the building of fast, scalable, fault-tolerant distributed systems. Topics include distributed communication models (e.g. sockets, remote procedure calls, distributed shared memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed file systems, replication, consistency models, fault tolerance, distributed transactions, agreement and commitment, Paxos-based consensus, MapReduce infrastructures, scalable distributed databases. Combines concepts and algorithms with descriptions of real-world implementations at Google, Facebook, Yahoo, Microsoft, LinkedIn, etc
+
+COMS W4114 ASSEMBLY LANG AND SYSTEMS PROG. 3.00 points .
+
+COMS W4115 PROGRAMMING LANG ＆ TRANSLATORS. 3.00 points .
+Prerequisites: ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) or ( COMS W3261 and CSEE W3827 ) Or the instructor's permission
+
+COMS W4118 OPERATING SYSTEMS I. 3.00 points .
+Prerequisites: ( CSEE W3827 ) and CSEE W3827 ; Knowledge of C and programming tools as covered in COMS COMS W3136 , COMS W3157 , or COMS W3101 , or the instructor's permission. 
+Design and implementation of operating systems. Topics include process management, process synchronization and interprocess communication, memory management, virtual memory, interrupt handling, processor scheduling, device management, I/O, and file systems. Case study of the UNIX operating system. A programming project is required
+
+COMS W4119 COMPUTER NETWORKS. 3.00 points .
+Prerequisites: Comfort with basic probability and programming fluency in Python, C++, Java, or Ruby. 
+Introduction to computer networks and the technical foundations of the internet, including applications, protocols, local area networks, algorithms for routing and congestion control, security, elementary performance evaluation. Several written and programming assignments required
+
+COMS W4121 COMPUTER SYSTEMS FOR DATA SCIENCE. 3.00 points .
+Prerequisites: CSOR W4246 OR STAT W4203; or equivalent as approved by faculty advisor. background in Computer System Organization and good working knowledge of C/C++ 
+ Corequisites: CSOR W4246 , STAT GU4203 
+An introduction to computer architecture and distributed systems with an emphasis on warehouse scale computing systems. Topics will include fundamental tradeoffs in computer systems, hardware and software techniques for exploiting instruction-level parallelism, data-level parallelism and task level parallelism, scheduling, caching, prefetching, network and memory architecture, latency and throughput optimizations, specialization, and an introduction to programming data center computers
+
+COMS W4125 PROGRAMING LANGUAGE SEMANTICS. 3.00 points .
+
+COMS W4137 From Algorithmic Thinking to Development. 3.00 points .
+Algorithmic problem-solving and coding skills needed to devise solutions to interview questions for software engineering positions. Solutions are implemented in Python, Java, C, and C . Approaches include brute-force, hashing, sorting, transform-and-conquer, greedy, and dynamic programming. Focus on experimentation and team work
+
+COMS W4152 Engineering Software-as-a-Service. 3.00 points .
+Prerequisites: COMS W3134 AND COMS W3157 AND CSEE W3827 
+Modern software engineering concepts and practices including topics such as Software-as-a-Service, Service-oriented Architecture, Agile Development, Behavior-driven Development, Ruby on Rails, and Dev/ops
+
+COMS W4153 Cloud Computing. 3.00 points .
+Prerequisites: COMS W4111 
+Software engineering skills necessary for developing cloud computing and software-as-a-service applications, covering topics such as service-oriented architectures, message-driven applications, and platform integration. Includes theoretical study, practical application, and collaborative project work
+
+COMS W4156 Advanced Software Engineering. 3.00 points .
+Prerequisites: ( COMS W3157 )
+
+COMS W4160 COMPUTER GRAPHICS. 3.00 points .
+Prerequisites: ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137 ; Strong programming background and some mathematical familiarity including linear algebra is required. 
+Introduction to computer graphics. Topics include 3D viewing and projections, geometric modeling using spline curves, graphics systems such as OpenGL, lighting and shading, and global illumination. Significant implementation is required: the final project involves writing an interactive 3D video game in OpenGL. Due to significant overlap in content, only one of COMS 4160 or Barnard COMS 3160BC may be taken for credit
+
+COMS W4162 ADVANCED COMPUTER GRAPHICS. 3.00 points .
+Prerequisites: ( COMS W4160 ) or COMS W4160
+
+COMS W4165 COMPUT TECHNIQUES-PIXEL PROCSS. 3.00 points .
+Prerequisites: COMS W3137 , COMS W3251 recommended, and a good working knowledge of UNIX and C. Intended for graduate students and advanced undergraduates. 
+An intensive introduction to image processing - digital filtering theory, image enhancement, image reconstruction, antialiasing, warping, and the state of the art in special effects. Topics from the basis of high-quality rendering in computer graphics and of low-level processing for computer vision, remote sensing, and medical imaging. Emphasizes computational techniques for implementing useful image-processing functions
+
+COMS W4167 COMPUTER ANIMATION. 3.00 points .
+
+COMS W4170 USER INTERFACE DESIGN. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137 
+Introduction to the theory and practice of computer user interface design, emphasizing the software design of graphical user interfaces. Topics include basic interaction devices and techniques, human factors, interaction styles, dialogue design, and software infrastructure. Design and programming projects are required
+
+COMS W4172 3D UI AND AUGMENTED REALITY. 3.00 points .
+Prerequisites: ( COMS W4160 ) or ( COMS W4170 ) or COMS W4160 OR COMS W4170 ; Or instructor's permission 
+Design, development, and evaluation of 3D user interfaces. Interaction techniques and metaphors, from desktop to immersive. Selection and manipulation. Travel and navigation. Symbolic, menu, gestural, and multimodal interaction. Dialogue design. 3D software support. 3D interaction devices and displays. Virtual and augmented reality. Tangible user interfaces. Review of relevant 3D math
+
+COMS W4181 SECURITY I. 3.00 points .
+Prerequisites: COMS W3157 ; or equivalent.
+
+COMS W4182 SECURITY II. 3.00 points .
+Prerequisites: COMS W4118 AND COMS W4181 AND CSEE W4119
+
+COMS W4186 MALWARE ANALYSIS＆REVERSE ENGINEERING. 3.00 points .
+Prerequisites: COMS W3157 AND CSEE W3827 ; or equivalent.
+
+COMS W4203 GRAPH THEORY. 3.00 points .
+Prerequisites: ( COMS W3203 ) COMS W3203
+
+COMS W4205 Combinatorial Theory. 3 points .
+Prerequisites: ( COMS W3203 ) and course in calculus.
+
+COMS W4223 Networks, Crowds, and the Web. 3.00 points .
+Prerequisites: Familiarity with elementary concepts of probability and data structures or experience programming with data 
+Introduces fundamental ideas and algorithms on networks of information collected by online services. It covers properties pervasive in large networks, dynamics of individuals that lead to large collective phenomena, mechanisms underlying the web economy, and results and tools informing societal impact of algorithms on privacy, polarization and discrimination
+
+COMS W4231 ANALYSIS OF ALGORITHMS I. 3.00 points .
+
+COMS W4232 Advanced Algorithms. 3.00 points .
+Prerequisites: see notes re: points COMS W4231 
+Introduces classic and modern algorithmic ideas that are central to many areas of Computer Science. The focus is on most powerful paradigms and techniques of how to design algorithms, and how to measure their efficiency. The intent is to be broad, covering a diversity of algorithmic techniques, rather than be deep. The covered topics have all been implemented and are widely used in industry. Topics include: hashing, sketching/streaming, nearest neighbor search, graph algorithms, spectral graph theory, linear programming, models for large-scale computation, and other related topics
+
+COMS W4236 INTRO-COMPUTATIONAL COMPLEXITY. 3.00 points .
+Prerequisites: ( COMS W3261 ) COMS W3261 
+Develops a quantitative theory of the computational difficulty of problems in terms of the resources (e.g. time, space) needed to solve them. Classification of problems into complexity classes, reductions, and completeness. Power and limitations of different modes of computation such as nondeterminism, randomization, interaction, and parallelism
+
+COMS W4241 NUMERICL ALGORITHMS-COMPLEXITY. 3.00 points .
+Prerequisites: knowledge of a programming language. Some knowledge of scientific computation is desirable.
+
+COMS W4242 NUMRCL ALGORTHMS-COMPLEXITY II. 3.00 points .
+
+COMS W4252 INTRO-COMPUTATIONAL LEARN THRY. 3.00 points .
+Prerequisites: ( CSOR W4231 ) or ( COMS W4236 ) or ( COMS W3203 ) or ( COMS W3261 )
+
+COMS W4261 INTRO TO CRYPTOGRAPHY. 3.00 points .
+Prerequisites: COMS W3261 OR CSOR W4231 ; Comfort with basic discrete math and probability. Recommended: COMS W3261 or CSOR W4231 . 
+An introduction to modern cryptography, focusing on the complexity-theoretic foundations of secure computation and communication in adversarial environments; a rigorous approach, based on precise definitions and provably secure protocols. Topics include private and public key encryption schemes, digital signatures, authentication, pseudorandom generators and functions, one-way functions, trapdoor functions, number theory and computational hardness, identification and zero knowledge protocols
+
+COMS W4281 INTRO TO QUANTUM COMPUTING. 3.00 points .
+
+COMS W4295 Topics in Theoretical Computer Science. 3.00 points .
+Selected topics in theoretical computer science. Content and prerequisites vary between sections and semesters. May be repeated for credit. Check "topics courses" webpage on the department website for more information on each section
+
+COMS W4419 Internet Technology, Economics, and Policy. 3.00 points .
+Prerequisites: General engineering, economics, law or technology background. Programming background is not required. 
+Technology, economic and policy aspects of the Internet. Summarizes how the Internet works technically, including protocols, standards, radio spectrum, global infrastructure and interconnection. Micro-economics with a focus on media and telecommunication economic concerns, including competition and monopolies, platforms, and behavioral economics. US constitution, freedom of speech, administrative procedures act and regulatory process, universal service, role of FCC. Not a substitute for CSEE4119. Suitable for non-majors
+
+COMS W4444 PROGRAMMING ＆ PROBLEM SOLVING. 3.00 points .
+Prerequisites: ( COMS W3134 and COMS W3136 ) or ( COMS W3137 and CSEE W3827 )
+
+COMS W4460 PRIN-INNOVATN/ENTREPRENEURSHIP. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) Or instructor's permission
+
+COMS W4701 ARTIFICIAL INTELLIGENCE. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and COMS W3134 OR COMS W3136 OR COMS W3137 ; Any course on probability 
+Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits
+
+COMS W4705 NATURAL LANGUAGE PROCESSING. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) or Python programming experience, probability theory, and linear algebra recommended. Some previous or concurrent exposure to AI and machine learning is benefici Some previous or concurrent exposure to AI or Machine Learning is recommended but not required.
+
+COMS W4706 Spoken Language Processing. 3 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) or COMS W3134 , W3136 , or W3137 ; or the instructor's permission.
+
+COMS W4710 Ethical and Responsible AI. 3.00 points .
+Prerequisites: ( COMS W2132 ) or ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) or ( IEOR E2000 ) Programming proficiency in Python. Basic knowledge of probability theory and statistics. Familiarity with machine learning recommended.
+
+COMS W4721 MACHINE LEARNING FOR DATA SCI. 3.00 points .
+
+COMS W4725 Knowledge representation and reasoning. 3 points .
+Prerequisites: ( COMS W4701 )
+
+COMS W4726 Deep Learning for Data Science. 3.00 points .
+Prerequisites: This course presumes prior knowledge of machine learning equivalent to having taken an introductory course in ML. It also assumes the ability to code in Python.
+
+COMS W4731 Computer Vision I: First Principles. 3.00 points .
+Prerequisites: Fundamentals of calculus, linear algebra, and C programming. Students without any of these prerequisites are advised to contact the instructor prior to taking the course. 
+Introductory course in computer vision. Topics include image formation and optics, image sensing, binary images, image processing and filtering, edge extraction and boundary detection, region growing and segmentation, pattern classification methods, brightness and reflectance, shape from shading and photometric stereo, texture, binocular stereo, optical flow and motion, 2D and 3D object representation, object recognition, vision systems and applications
+
+COMS W4732 Computer Vision II: Learning. 3.00 points .
+Prerequisites: COMS W4731 ; Fundamentals of calculus, linear algebra, and Python programming. Students without any of these prerequisites are advised to contact the instructor prior to taking the course. 
+Advanced course in computer vision. Topics include convolutional networks and back-propagation, object and action recognition, self-supervised and few-shot learning, image synthesis and generative models, object tracking, vision and language, vision and audio, 3D representations, interpretability, and bias, ethics, and media deception
+
+COMS W4733 COMPUTATIONAL ASPECTS OF ROBOTICS. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3251 or MATH UN2010 or APMA E2101 or APMA E3101 or MATH UN2015 ) and ( STAT GU4001 or IEOR E3658 or STAT UN1201 or MATH UN2015 ) Proficiency in Python or a similar programming language.
+
+COMS W4735 VISUAL INTERFACES TO COMPUTERS. 3.00 points .
+Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137 
+Visual input as data and for control of computer systems. Survey and analysis of architecture, algorithms, and underlying assumptions of commercial and research systems that recognize and interpret human gestures, analyze imagery such as fingerprint or iris patterns, generate natural language descriptions of medical or map imagery. Explores foundations in human psychophysics, cognitive science, and artificial intelligence
+
+COMS W4737 BIOMETRICS. 3.00 points .
+Prerequisites: a background at the sophomore level in computer science, engineering, or like discipline.
+
+COMS W4762 Machine Learning for Functional Genomics. 3 points .
+Prerequisites: Proficiency in a high level programming language Python/R/Julia. An introductory machine learning class such as COMS W4771 Machine Learning will be helpful but is not required.
+
+COMS W4771 MACHINE LEARNING. 3.00 points .
+Prerequisites: ( MATH UN1201 or MATH UN1205 or APMA E2000 ) and ( COMS W3251 or MATH UN2010 or MATH UN2015 ) and ( STAT UN1201 or STAT GU4001 or IEOR E3658 or MATH UN2015 ) and COMS W3203 and COMS W3134 General mathematical maturity. COMS W3770 is recommended for students who wish to refresh their math background.
+
+COMS W4772 ADVANCED MACHINE LEARNING. 3.00 points .
+Prerequisites: ( COMS W4771 ) or COMS W4771 ; Instructor's permission; knowledge of linear algebra & introductory probability or statistics is required. 
+An exploration of advanced machine learning tools for perception and behavior learning. How can machines perceive, learn from, and classify human activity computationally? Topics include appearance-based models, principal and independent components analysis, dimensionality reduction, kernel methods, manifold learning, latent models, regression, classification, Bayesian methods, maximum entropy methods, real-time tracking, extended Kalman filters, time series prediction, hidden Markov models, factorial HMMS, input-output HMMs, Markov random fields, variational methods, dynamic Bayesian networks, and Gaussian/Dirichlet processes. Links to cognitive science
+
+COMS W4773 Machine Learning Theory. 3 points .
+Prerequisites: COMS W4771
+
+COMS W4774 Unsupervised Learning. 3.00 points .
+Prerequisites: COMS W4771 Background in probability and statistics, linear algebra, and multivariate calculus. Ability to program in a high-level language, and familiarity with basic algorithm design and coding principles
+
+COMS W4775 Causal Inference. 3.00 points .
+Prerequisites: COMS W4771 Discrete Math, Calculus, Statistics basic probability, modeling, experimental design, Some programming experience
+
+COMS W4776 Machine Learning for Data Science. 3 points .
+Prerequisites: ( STAT GU4001 or IEOR E4150 ) and SIEO W3600 or W4150 or equivalent.
+
+COMS W4824 COMPUTER ARCHITECTURE. 3.00 points .
+
+COMS W4835 COMPUTER ORGANIZATION II. 3.00 points .
+
+COMS W4841 INTRO TO VLSI SYSTEMS. 3.00 points .
+
+COMS W4901 Projects in Computer Science. 1-3 points .
+Prerequisites: Approval by a faculty member who agrees to supervise the work.
+
+COMS W4910 CURRICULAR PRACTICAL TRAINING. 1.00 point .
+
+COMS W4975 Topics in Natural Language Processing. 3.00 points .
+Prerequisites: ( COMS W4705 )
+
+COMS W4995 TOPICS IN COMPUTER SCIENCE. 3.00 points .
+Selected topics in computer science. Content and prerequisites vary between sections and semesters. May be repeated for credit. Check “topics course” webpage on the department website for more information on each section
+
+COMS W4996 Special topics in computer science, II. 3 points .
+Prerequisites: Instructor's permission.
+
+COMS W6298 Advanced Topics in Theoretical Computer Science. 3.00 points .
+Selected topics in theoretical computer science (advanced level). Content and prerequisites vary between sections and semesters. May be repeated for credit. Check "topics courses" webpage on the department website for more information on each section
+
+COMS W6706 Advanced Spoken Language Processing. 3.00 points .
+Prerequisites: COMS W4705 or a similar course in speech or natural language processing; experience with machine learning
+
+COMS W6975 Advanced Topics in Natural Language Processing. 3.00 points .
+Prerequisites: ( COMS W4705 ) Knowledge of deep learning methods in NLP.
+
+Barnard College Computer Science Courses
+
+Columbia University Computer Science Courses

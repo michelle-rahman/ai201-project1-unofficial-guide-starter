@@ -1,0 +1,215 @@
+COMS W1002 — COMPUTING IN ECONOMICS Section 001, Call# 13508, 4 pts, Lecture, Computer Science. Instructor: Cannon, Adam H.
+
+COMS W1002 — COMPUTING IN ART Section 002, Call# 13509, 4 pts, Lecture, Computer Science. Instructor: Cannon, Adam H.
+
+COMS W1002 — COMPUTING IN BIOLOGY Section 003, Call# 13510, 4 pts, Lecture, Computer Science. Instructor: Cannon, Adam H.
+
+COMS W1002 — NLP DIGITAL HUMANITIES Section 004, Call# 13511, 4 pts, Lecture, Computer Science. Instructor: Cannon, Adam H.
+
+COMS W1004 — INTRO-COMPUT SCI/PROG IN Section 001, Call# 13512, 3 pts, Lecture, Computer Science. Instructor: Blaer, Paul S.
+
+COMS W1004 — INTRO-COMPUT SCI/PROG IN Section 002, Call# 13513, 3 pts, Lecture, Computer Science. Instructor: Blaer, Paul S.
+
+ENGI E1006 — INTRO TO COMP FOR ENG/APP Section 001, Call# 14010, 3 pts, Lecture, Engineering. Instructor: Murphy, Chris. Note: Class prioritised for SEAS until later in summer
+
+COMS W1012 — COMPUTING IN ECON Section 001, Call# 13514, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN ECON Section 002, Call# 13515, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN ECON Section 003, Call# 13516, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN ECON Section 004, Call# 13517, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN ART Section 005, Call# 13518, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN ART Section 006, Call# 13519, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN BIOLOGY Section 007, Call# 13520, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — COMPUTING IN BIOLOGY Section 008, Call# 13521, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — NLP DIGITAL HUMANITIES Section 009, Call# 13522, 0 pts, Recitati, Computer Science.
+
+COMS W1012 — NLP DIGITAL HUMANITIES Section 010, Call# 13523, 0 pts, Recitati, Computer Science.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 001, Call# 13524, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 002, Call# 13525, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 003, Call# 13526, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 004, Call# 13527, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 005, Call# 13528, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 006, Call# 13529, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 007, Call# 13530, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W1404 — EMERGING SCHOLARS PROG SE Section 008, Call# 13531, 1 pts, Seminar, Computer Science. Instructor: Murphy, Chris.
+
+COMS W2702 — AI IN CONTEXT Section 001, Call# 13532, 3 pts, Lecture, Computer Science. Instructor: Cannon, Adam H.
+
+COMS W3107 — Clean Object-Oriented Des Section 001, Call# 13533, 3 pts, Lecture, Computer Science. Instructor: Murphy, Chris.
+
+COMS W3134 — DATA STRUCTURES IN JAVA Section 001, Call# 13534, 3 pts, Lecture, Computer Science. Instructor: Borowski, Brian.
+
+COMS W3134 — DATA STRUCTURES IN JAVA Section 002, Call# 13535, 3 pts, Lecture, Computer Science. Instructor: Borowski, Brian.
+
+COMS W3157 — ADVANCED PROGRAMMING Section 001, Call# 13536, 4 pts, Lecture, Computer Science. Instructor: Lee, Jae W.
+
+COMS W3157 — ADVANCED PROGRAMMING Section 002, Call# 13537, 4 pts, Lecture, Computer Science. Instructor: Lee, Jae W.
+
+COMS W3203 — DISCRETE MATHEMATICS Section 001, Call# 13538, 4 pts, Lecture, Computer Science. Instructor: Chuang, Gabriel T.
+
+COMS W3261 — COMPUTER SCIENCE THEORY Section 001, Call# 13539, 3 pts, Lecture, Computer Science. Instructor: Malkin, Tal.
+
+COMS W3261 — COMPUTER SCIENCE THEORY Section 002, Call# 13540, 3 pts, Lecture, Computer Science. Instructor: Malkin, Tal.
+
+COMS W3410 — COMPUTERS AND SOCIETY Section 001, Call# 13541, 3 pts, Lecture, Computer Science. Instructor: Baecker, Ronald.
+
+CSBS W3761 — LAB COMPUTATIONAL BIOLOGY Section 001, Call# 14466, 3 pts, Laborato, Computer Sci Biological Sci. Instructor: Pe'er, Itsik.
+
+CSEE W3827 — FUNDAMENTALS OF COMPUTER Section 001, Call# 14002, 3 pts, Lecture, Computer Science and Electrica. Instructor: Kim, Martha A.
+
+COMS W4111 — INTRODUCTION TO DATABASES Section 001, Call# 13651, 3 pts, Lecture, Computer Science. Instructor: Gravano, Luis.
+
+COMS W4111 — INTRODUCTION TO DATABASES Section 002, Call# 13652, 3 pts, Lecture, Computer Science. Instructor: Hassanzadeh, Oktie.
+
+COMS W4115 — PROGRAMMING LANG & TRANSL Section 001, Call# 13653, 3 pts, Lecture, Computer Science. Instructor: Gu, Ronghui.
+
+COMS W4118 — OPERATING SYSTEMS I Section 001, Call# 13654, 3 pts, Lecture, Computer Science. Instructor: Nieh, Jason.
+
+CSEE W4119 — COMPUTER NETWORKS Section 001, Call# 14072, 3 pts, Lecture, Computer Science and Electrica. Instructor: Schulzrinne, Henning G.
+
+COMS W4156 — ADVANCED SOFTWARE ENGINEE Section 001, Call# 13655, 3 pts, Lecture, Computer Science. Instructor: Kaiser, Gail E.
+
+COMS W4160 — COMPUTER GRAPHICS Section 001, Call# 13656, 3 pts, Lecture, Computer Science. Instructor: Zheng, Changxi.
+
+COMS W4170 — USER INTERFACE DESIGN Section 001, Call# 13657, 3 pts, Lecture, Computer Science.
+
+COMS W4181 — SECURITY I Section 001, Call# 13658, 3 pts, Lecture, Computer Science. Instructor: Zhang, Zhuo.
+
+COMS W4186 — MALWARE ANALYSIS&REVERSE Section 001, Call# 13659, 3 pts, Lecture, Computer Science. Instructor: Sikorski, Michael S.
+
+CSOR W4223 — NETWORKS CROWDS AND THE W Section 001, Call# 14007, 3 pts, Lecture, Computer Science and Operation. Instructor: Chaintreau, Augustin.
+
+CSOR W4231 — ANALYSIS OF ALGORITHMS I Section 001, Call# 14008, 3 pts, Lecture, Computer Science and Operation. Instructor: Chen, Xi.
+
+CSOR W4231 — ANALYSIS OF ALGORITHMS I Section 002, Call# 14009, 3 pts, Lecture, Computer Science and Operation. Instructor: Yannakakis, Mihalis.
+
+COMS W4236 — INTRO-COMPUTATIONAL COMPL Section 001, Call# 13660, 3 pts, Lecture, Computer Science. Instructor: Pitassi, Toniann.
+
+CSOR W4246 — ALGORITHMS FOR DATA SCIENCE Section 001, Call# 12497, 3 pts, Lecture, Computer Science and Operation. Instructor: Drinea, Eleni. Note: MS Data Science priority
+
+CSOR W4246 — ALGORITHMS FOR DATA SCIENCE Section 002, Call# 12498, 3 pts, Lecture, Computer Science and Operation. Instructor: Drinea, Eleni. Note: MS Data Science Priority
+
+COMS W4281 — INTRO TO QUANTUM COMPUTIN Section 001, Call# 13661, 3 pts, Lecture, Computer Science. Instructor: Yuen, Henry.
+
+COMS W4444 — PROGRAMMING & PROBLEM SOL Section 001, Call# 13662, 3 pts, Lecture, Computer Science. Instructor: Ross, Kenneth A.
+
+COMS W4460 — PRIN-INNOVATN/ENTREPRENEU Section 001, Call# 13663, 3 pts, Lecture, Computer Science. Instructor: Reinisch, William.
+
+COMS W4701 — ARTIFICIAL INTELLIGENCE Section 001, Call# 13664, 3 pts, Lecture, Computer Science. Instructor: Salleb-Aouissi, Ansaf.
+
+COMS W4701 — ARTIFICIAL INTELLIGENCE Section 002, Call# 13665, 3 pts, Lecture, Computer Science. Instructor: Salleb-Aouissi, Ansaf.
+
+COMS W4705 — NATURAL LANGUAGE PROCESSI Section 001, Call# 13666, 3 pts, Lecture, Computer Science. Instructor: Hewitt, John.
+
+COMS W4705 — NATURAL LANGUAGE PROCESSI Section 030, Call# 14584, 3 pts, Lecture, Computer Science. Instructor: Simion, Andrei A. Note: MS Data Science Priority
+
+COMS W4726 — DEEP LEARNING FOR DS Section 001, Call# 15508, 3 pts, Lecture, Computer Science.
+
+COMS W4731 — Computer Vision I Section 001, Call# 13667, 3 pts, Lecture, Computer Science. Instructor: Nayar, Shree K.
+
+COMS W4733 — COMPUTATNL ASPECTS OF ROB Section 001, Call# 13668, 3 pts, Lecture, Computer Science. Instructor: Li, Yunzhu.
+
+COMS E4762 — ML for Functional Genomic Section 001, Call# 13669, 3 pts, Lecture, Computer Science. Instructor: Knowles, David A.
+
+COMS W4771 — MACHINE LEARNING Section 001, Call# 13670, 3 pts, Lecture, Computer Science. Instructor: Verma, Nakul.
+
+COMS W4771 — MACHINE LEARNING Section 002, Call# 13671, 3 pts, Lecture, Computer Science. Instructor: Verma, Nakul.
+
+COMS E4773 — Machine Learning Theory Section 001, Call# 13672, 3 pts, Lecture, Computer Science. Instructor: Hsu, Daniel.
+
+COMS E4776 — NEURAL NETWORKS DEEP LEAR Section 001, Call# 13673, 3 pts, Lecture, Computer Science. Instructor: Zemel, Richard.
+
+CSEE W4824 — COMPUTER ARCHITECTURE Section 001, Call# 14003, 3 pts, Lecture, Computer Science and Electrica. Instructor: Sethumadhavan, Simha.
+
+CSEE W4868 — SYSTEM-ON-CHIP PLATFORMS Section 001, Call# 14004, 3 pts, Lecture, Computer Science and Electrica. Instructor: Carloni, Luca.
+
+COMS W4995 — PARALLEL FUNCTIONAL PROGRAMMIN Section 001, Call# 13735, 3 pts, Lecture, Computer Science. Instructor: Edwards, Stephen A.
+
+COMS W4995 — DESIGN USING C++ Section 002, Call# 13736, 3 pts, Lecture, Computer Science. Instructor: Stroustrup, Bjarne.
+
+COMS W4995 — RESILIENT QUANTUM COMP Section 003, Call# 13737, 3 pts, Lecture, Computer Science. Instructor: Rubenstein, Daniel S.
+
+COMS W4995 — ADV SFTWR DEVELOP W/ AI Section 004, Call# 13738, 3 pts, Lecture, Computer Science. Instructor: Ray, Baishakhi.
+
+COMS W4995 — HACKING 4 DEFENSE Section 005, Call# 13739, 3 pts, Lecture, Computer Science. Instructor: Blaer, Paul S.
+
+COMS W4995 — INNOVATION & DESIGN LAB Section 006, Call# 13740, 3 pts, Lecture, Computer Science. Instructor: Zamchick, Gary.
+
+COMS W4995 — COMPETITIVE PROGRAMMING Section 007, Call# 13741, 3 pts, Lecture, Computer Science. Instructor: Lim, Yongwhan.
+
+COMS W4995 — HEALTH DATA MGMT AGENTS Section 008, Call# 13742, 3 pts, Lecture, Computer Science. Instructor: Wu, Eugene.
+
+COMS W4995 — AGENIC ENGINEERING Section 009, Call# 13743, 3 pts, Lecture, Computer Science.
+
+COMS W4995 — DEEP LRNG FOR COMP VISION Section 010, Call# 13744, 3 pts, Lecture, Computer Science. Instructor: Belhumeur, Peter.
+
+COMS W4995 — C++ DEEP DIVE FOR C PRGS Section 011, Call# 13745, 3 pts, Lecture, Computer Science. Instructor: Montero, Hans J.
+
+COMS W4995 — LAB2MKT QUANTUM AI INNOVA Section 012, Call# 13746, 3 pts, Lecture, Computer Science. Instructor: Azari Soufiani, Hossein.
+
+COMS W4995 — CASL MLTPLAYER GAME OCAML Section 013, Call# 13747, 3 pts, Lecture, Computer Science. Instructor: Zibin, Yoav.
+
+COMS W4995 — APPLIED MACHINE LEARNING Section 030, Call# 14583, 3 pts, Lecture, Computer Science. Instructor: Luo, Spencer. Note: MS Data Science Priority
+
+COMS E6113 — TOPICS IN AGENTIC SYSTEMS Section 001, Call# 13748, 3 pts, Lecture, Computer Science. Instructor: Kaffes, Kostis.
+
+COMS E6173 — Virtual and Augmented Rea Section 001, Call# 13749, 3 pts, Lecture, Computer Science. Instructor: Feiner, Steven K.
+
+CSEE W6180 — MODELING & PERFORMANCE EV Section 001, Call# 14005, 3 pts, Lecture, Computer Science and Electrica. Instructor: Misra, Vishal.
+
+COMS E6298 — INTRO PROPERTY TESTING Section 001, Call# 13750, 3 pts, Lecture, Computer Science. Instructor: Chen, Xi.
+
+COMS E6298 — BOOLEAN FUNCTION ANALYSIS Section 002, Call# 13751, 3 pts, Lecture, Computer Science. Instructor: Servedio, Rocco.
+
+COMS E6706 — ADV SPOKEN LANG PROC Section 001, Call# 13752, 3 pts, Lecture, Computer Science. Instructor: Hirschberg, Julia.
+
+CSEE E6863 — FORMAL VERIF HW SW SYSTEM Section 001, Call# 14006, 3 pts, Lecture, Computer Science and Electrica. Instructor: Theobald, Michael.
+
+COMS E6900 — TUTORIAL IN COMPUTER SCIE Section 052, Call# 13753, 1-3 pts, Tutorial, Computer Science. Instructor: Roughgarden, Timothy A.
+
+COMS E6975 — AI AGENTS CAPABL RELIABL Section 001, Call# 13903, 3 pts, Lecture, Computer Science. Instructor: Yu, Zhou.
+
+COMS E6975 — NATURAL LANG GEN SUMMARIZ Section 002, Call# 13904, 3 pts, Lecture, Computer Science. Instructor: McKeown, Kathleen.
+
+COMS E6998 — READINGS LANGUAGE DESIGN Section 001, Call# 13905, 3 pts, Lecture, Computer Science. Instructor: Stroustrup, Bjarne.
+
+COMS E6998 — ADV TPCS COMPETITIVE PROG Section 002, Call# 13906, 3 pts, Lecture, Computer Science. Instructor: Alman, Josh.
+
+COMS E6998 — Hyperscale+AI Infrastruct Section 003, Call# 13907, 3 pts, Lecture, Computer Science. Instructor: Nieh, Jason. Note: Course Project Required. PreReq: COMS 4118. Study based on b
+
+COMS E6998 — CONTINUAL LEARN MEM MDLS Section 004, Call# 13908, 3 pts, Lecture, Computer Science. Instructor: Zemel, Richard.
+
+COMS E6998 — MOBILE HEALTH SENSING AI Section 005, Call# 13909, 3 pts, Lecture, Computer Science. Instructor: Zhou, Xia.
+
+COMS E6998 — HIGH PERF MACH LEARNING Section 006, Call# 13910, 3 pts, Lecture, Computer Science. Instructor: El Maghraoui, Kaoutar.
+
+COMS E6998 — LLM BASED GENERATIVE AI Section 007, Call# 13911, 3 pts, Lecture, Computer Science. Instructor: Dube, Parijat.
+
+COMS E6998 — SCALING LLMS SYSTEMS OPT Section 008, Call# 13912, 3 pts, Lecture, Computer Science. Instructor: El Maghraoui, Kaoutar.
+
+COMS E6998 — ADVANCED COMP SECURITY Section 009, Call# 13913, 3 pts, Lecture, Computer Science. Instructor: Jana, Suman.
+
+COMS E6998 — ALGOS LARGE LANG MODELS Section 010, Call# 13914, 3 pts, Lecture, Computer Science. Instructor: Andoni, Alexandr.
+
+COMS E6998 — DESIGN FOR GENERATIVE AI Section 011, Call# 13915, 3 pts, Lecture, Computer Science. Instructor: Chilton, Lydia.
+
+COMS E6998 — COMPUTATION AND THE BRAIN Section 012, Call# 13916, 3 pts, Lecture, Computer Science. Instructor: Papadimitriou, Christos H.
+
+COMS E6998 — ADVANCES VIS GENER MODELS Section 013, Call# 13917, 3 pts, Lecture, Computer Science. Instructor: Holynski, Aleksander.
+
+COMS E9902 — FRONTIERS CS RESEARCH Section 001, Call# 15324, 3 pts, Seminar, Computer Science. Instructor: Sellan, Silvia.

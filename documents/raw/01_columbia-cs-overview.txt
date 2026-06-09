@@ -1,0 +1,176 @@
+COMS W3998 UNDERGRAD PROJECTS IN COMPUTER SCIENCE. 1.00-3.00 points .
+
+COMS W3998 UNDERGRAD PROJECTS IN COMPUTER SCIENCE. 1.00-3.00 points .
+
+The Computer Science Department:
+ 
+
+Department website: 
+http://www.cs.columbia.edu
+
+Office location: 450 Mudd
+
+Office contact: 
+ug-advising@cs.columbia.edu
+
+Director of Undergraduate Studies:
+ Dr. Jae Woo Lee, 715 CEPSR; 212-939-7066; jae@cs.columbia.edu
+
+Undergraduate Administrator: 
+CS Advising, 
+ug-advising@cs.columbia.edu
+
+ 
+
+The Computer Science Major 
+
+Students study a common core of fundamental topics, supplemented by a program of six electives that provides a high degree of flexibility. Three of the electives are chosen from a list of upper-level courses that represent area foundations within computer science. The remaining electives are selected from the complete list of upper-level computer science courses. Students are encouraged to work with their faculty advisor to create a plan tailored to fit their goals and interests. The department webpage provides several example programs for students interested in a variety of specific areas in computer science.
+
+Our website is always the most current in terms of information and has many FAQs for students. Please view this here: 
+cs.columbia.edu
+ and contact 
+ug-advising@cs.columbia.edu
+ with any questions.
+
+Student Advising
+ 
+
+Consulting Advisers
+
+Undergraduate students will be assigned a CS Faculty Advisor from the list on the CS website - 
+https://www.cs.columbia.edu/education/undergraduate/advisors/. Students will typically have the same advisor throughout their time in the program. However, students are encouraged to check this list at the start of every term to ensure their advisor remains the same. To reach out to your CS Faculty Advisor, please email first or visit during office hours. 
+
+Enrolling in Classes
+ 
+
+Computer Science Department courses are needed by many student populations and are in high demand. To facilitate all COMS students getting the courses they need and distribute seats fairly, please refer to our policy - 
+https://www.cs.columbia.edu/cs-course-registration-policy/ 
+
+Preparing for Graduate Study
+
+The department offers a number of options at the graduate level, including the MS Express. Please refer to our FAQs - 
+https://www.cs.columbia.edu/education/admissions8/
+ - or email 
+ms-admissions@cs.colubia.edu
+ with any questions.
+
+Coursework Taken Outside of Columbia
+ 
+
+Advanced Placement
+ 
+
+The department grants 3 points for a score of 4 or 5 on the AP Computer Science A exam, along with an exemption from
+ COMS W1004
+ Introduction to Computer Science and Programming in Java. However, we recommend that you take COMS W1004 before taking COMS W3134/W3137 Data Structures if you received a score of 4 or have not programmed in Java recently.
+
+Barnard College Courses
+
+Any course offered by the Computer Science @Barnard department can count 
+towards degree requirements. Please refer to the major and minor program information pages for specific information.
+
+Transfer Courses
+ 
+
+Major
+: Up to four transfer courses are accepted toward the major. Calculus, linear algebra, and probability/statistics courses can be transferred in addition to the four-course limits.
+
+Minor
+: Up to two transfer courses are accepted toward the minor. A transfer course in linear algebra or probability/statistics counts as one of the two allowed transfers.
+
+Each course must be approved as equivalent by the faculty who teaches it at Columbia 
+and must have been passed with a B grade or higher
+. Please refer to the guide here - https://www.cs.columbia.edu/education/undergraduate/#sec8
+
+Study Abroad Courses
+
+If you are considering studying abroad, please consult with the CS Advisor as soon as possible. Each course for potential incorporation into your CS major or minor must be approved as equivalent by the faculty who teaches it at Columbia.
+
+Summer Courses
+ 
+
+Any Computer Science or approved cognate course offered during the summer 
+session will count towards the degree, with the exception of online-only courses, 
+which do not count towards degree requirements.
+
+Undergraduate Research and Senior Thesis
+ 
+
+Undergraduate Research in Courses
+ 
+
+COMS W4901 Projects in Computer Science. 
+1-3 points
+.
+
+Prerequisites: Approval by a faculty member who agrees to supervise the work.
+
+A second-level independent project involving laboratory work, computer programming, analytical investigation, or engineering design. May be repeated for credit, but not for a total of more than 3 points of degree credit. Consult the department for section assignment.
+
+Senior Thesis Coursework and Requirements
+ 
+
+A thesis is not a requirement for the major or minor.
+
+COMS W3902 UNDERGRADUATE THESIS.
+ 0.00-6.00 points.
+
+Prerequisites: Agreement by a faculty member to serve as thesis adviser.
+
+An independent theoretical or experimental investigation by an undergraduate major of an appropriate problem in computer science carried out under the supervision of a faculty member. A formal written report is mandatory and an oral presentation may also be required. May be taken over more than one term, in which case the grade is deferred until all 6 points have been completed. Consult the department for section assignment
+
+Undergraduate Research Outside of Courses
+
+Laboratory Facilities
+
+The department has well-equipped lab areas for research in computer graphics, computer-aided digital design, computer vision, databases and digital libraries, data mining and knowledge discovery, distributed systems, mobile and wearable computing, natural language processing, networking, operating systems, programming systems, robotics, user interfaces, and real-time multimedia.
+
+Research labs contain several large Linux and Solaris clusters; Puma 500 and IBM robotic arms; a UTAH-MIT dexterous hand; an Adept-1 robot; three mobile research robots; a real-time defocus range sensor; interactive 3-D graphics workstations with 3-D position and orientation trackers; prototype wearable computers, wall-sized stereo projection systems; see-through head-mounted displays; a networking testbed with three Cisco 7500 backbone routers, traffic generators; an IDS testbed with secured LAN, Cisco routers, EMC storage, and Linux servers; and a simulation testbed with several Sun servers and Cisco Catalyst routers.  The department uses a SIP IP phone system. The protocol was developed in the department.
+
+The department's computers are connected via a switched 1Gb/s Ethernet network, which has direct connectivity to the campus OC-3 Internet and internet 2 gateways. The campus has 802.11b/g wireless LAN coverage.
+
+The research facility is supported by a full-time staff of professional system administrators and programmers.
+
+Participating in Research Projects
+
+Students can reach out to professors whose research areas are of interest to them. Professors will typically require that students have completed the relevant coursework covering the background knowledge and skills. 
+
+Once a faculty member agrees to supervise the student’s research work, the student will register for the professor’s section of COMS W3998 or W4901.
+
+COMS W4901 Projects in Computer Science. 
+1-3 points
+.
+
+Prerequisites: Approval by a faculty member who agrees to supervise the work.
+
+A second-level independent project involving laboratory work, computer programming, analytical investigation, or engineering design. May be repeated for credit, but not for a total of more than 3 points of degree credit. Consult the department for section assignment.
+
+Department Honors and Prizes
+ 
+
+Department Honors
+
+The Computer Science Department does not award departmental honors.
+
+Academic Prizes
+ 
+
+Jonathan L. Gross Award for Academic Excellence: 
+This award was established in 2017 in honor of the much loved Professor Emeritus Jonathan Gross. Each year a cash gift is awarded to one graduating masters student and to one graduating senior from each of the four undergraduate schools served by the Department of Computer Science. 
+
+Theodore R. Bashkow Award:
+ Presented to a computer science senior who has excelled in independent projects. This is awarded in honor of Professor Theodore R. Bashkow, whose contributions as a researcher, teacher, and consultant have significantly advanced the state of the art of computer science.
+
+Andrew P. Kosoresow Memorial Award for Excellence in Teaching and Service: 
+Awarded for outstanding contributions to teaching in the Department of Computer Science and exemplary service to the Department and its mission.
+
+Computer Science Scholarship Award
+: A cash prize awarded to two B.A. and two B.S. degree candidates for outstanding academic achievement in computer science.
+
+Russell C. Mills Award
+: This annual award, established by the computer science department in 1992 in memory of Russell C. Mills, is a cash prize given to a computer science major who has exhibited excellence in the area of computer science.
+
+Other Important Information
+ 
+
+See the Requirements section for the policies on double counting and D grades.

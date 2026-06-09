@@ -1,0 +1,464 @@
+Code — Title — Points
+Calculus Requirement: Select one of the following courses:
+MATH UN1201 — CALCULUS III
+MATH UN1205 — ACCELERATED MULTIVARIABLE CALC
+APMA E2000 — MULTV. CALC. FOR ENGI ＆ APP SCI
+Note that MATH UN1201 (Calculus III) requires Calculus I as a prerequisite but does NOT require Calculus II. MATH UN1205 and APMA E2000 , however, require both Calculus I and Calculus II as prerequisites.
+
+Code — Title — Points
+Linear Algebra Requirement: Select one of the following courses:
+COMS W3251 — COMPUTATIONAL LINEAR ALGEBRA (recommended)
+MATH UN2010 — LINEAR ALGEBRA
+MATH UN2015 — Linear Algebra and Probability
+MATH UN2020 — Honors Linear Algebra
+APMA E2101 — INTRO TO APPLIED MATHEMATICS
+APMA E3101 — APPLIED MATH I: LINEAR ALGEBRA
+
+Code — Title — Points
+Probability / Statistics Requirement: Select one of the following courses:
+MATH UN2015 — Linear Algebra and Probability
+IEOR E3658 — PROBABILITY FOR ENGINEERS
+STAT UN1201 — CALC-BASED INTRO TO STATISTICS
+STAT GU4001 — INTRODUCTION TO PROBABILITY AND STATISTICS
+NOTE: Math 2015 Linear Algebra and Probability may simultaneously satisfy both linear algebra and probability requirements without the need to take additional classes thus reducing the total number of points required.
+
+Code — Title — Points
+ENGI E1006 — INTRO TO COMP FOR ENG/APP SCI (recommended but not required)
+or  COMS W1002 — COMPUTING IN CONTEXT
+
+Code — Title — Points
+First Year
+COMS W1004 — PROGRAMMING IN JAVA
+or COMS W1007
+Sophomore Year
+COMS W3134 — Data Structures in Java
+or  COMS W3137 — HONORS DATA STRUCTURES ＆ ALGOL
+COMS W3157 — ADVANCED PROGRAMMING
+COMS W3203 — DISCRETE MATHEMATICS
+Junior and Senior Year
+Complete the remaining required core courses:
+COMS W3261 — COMPUTER SCIENCE THEORY
+CSEE W3827 — FUNDAMENTALS OF COMPUTER SYSTS
+
+Code — Title — Points
+COMS W4111 — INTRODUCTION TO DATABASES
+COMS W4113 — FUND-LARGE-SCALE DIST SYSTEMS
+COMS W4115 — PROGRAMMING LANG ＆ TRANSLATORS
+COMS W4118 — OPERATING SYSTEMS I
+COMS W4119 — COMPUTER NETWORKS
+COMS W4152 — Engineering Software-as-a-Service
+COMS W4156 — Advanced Software Engineering
+COMS W4160 — COMPUTER GRAPHICS
+COMS W4167 — COMPUTER ANIMATION
+COMS W4170 — USER INTERFACE DESIGN
+COMS W4181 — SECURITY I
+CSOR E4231 — ANALYSIS OF ALGORITHMS I
+COMS W4236 — INTRO-COMPUTATIONAL COMPLEXITY
+COMS W4701 — ARTIFICIAL INTELLIGENCE
+COMS W4705 — NATURAL LANGUAGE PROCESSING
+COMS W4731 — Computer Vision I: First Principles
+COMS W4733 — COMPUTATIONAL ASPECTS OF ROBOTICS
+CBMF W4761 — COMPUTATIONAL GENOMICS
+COMS W4771 — MACHINE LEARNING
+CSEE W4824 — COMPUTER ARCHITECTURE
+CSEE W4868 — SYSTEM-ON-CHIP PLATFORMS
+
+Code — Title — Points
+COMS W1001 — INTRO TO INFORMATION SCIENCE
+or COMS W1002 Computing in Context
+COMS W1004 — PROGRAMMING IN JAVA
+COMS W3107 — Clean Object-Oriented Design
+COMS W3134 — Data Structures in Java
+STAT GU4001 — INTRODUCTION TO PROBABILITY AND STATISTICS
+
+Code — Title — Points
+COMS W4111 — INTRODUCTION TO DATABASES
+COMS W4170 — USER INTERFACE DESIGN
+COMS W4701 — ARTIFICIAL INTELLIGENCE
+COMS W3410 — COMPUTERS AND SOCIETY
+SOCI UN3010 — METHODS FOR SOCIAL RESEARCH
+SOCI UN3960 — SEMINAR - PROBLEMS OF LAW ＆ SOCIETY
+
+Code — Title — Points
+COMS W4111 — INTRODUCTION TO DATABASES
+COMS W4701 — ARTIFICIAL INTELLIGENCE
+COMS W4771 — MACHINE LEARNING
+ECON UN3412 — INTRODUCTION TO ECONOMETRICS
+ECON UN3025 — FINANCIAL ECONOMICS
+ECON UN3265 — MONEY AND BANKING
+
+Code — Title — Points
+COMS W4111 — INTRODUCTION TO DATABASES
+COMS W4170 — USER INTERFACE DESIGN
+COMS W4701 — ARTIFICIAL INTELLIGENCE
+BINF G4001 — Introduction To Computer Applications In Health Care and Biomedicine
+BIOL W4037 — Bioinformatics of Gene Expression
+ECBM E3060/E4060
+
+Code — Title — Points
+Prerequisites (15 points)
+MATH UN1101 — CALCULUS I
+MATH UN1102 — CALCULUS II
+MATH UN1201 — CALCULUS III
+MATH UN2010 — LINEAR ALGEBRA
+This introductory Statistics course:
+STAT UN1201 — CALC-BASED INTRO TO STATISTICS
+Statistics (12 points)
+STAT GU4203 — PROBABILITY THEORY
+STAT GU4204 — STATISTICAL INFERENCE
+STAT GU4205 — LINEAR REGRESSION MODELS
+STAT GU4241 — STATISTICAL MACHINE LEARNING
+or COMS W4771 Machine Learning
+Computer Science (12 points)
+Select one of the following courses:
+COMS W1004 — PROGRAMMING IN JAVA
+COMS W1005 — INTRO-COMPUT SCI/PROG-MATLAB
+COMS W1007
+ENGI E1006 — INTRO TO COMP FOR ENG/APP SCI
+Select one of the following courses:
+COMS W3134 — Data Structures in Java
+COMS W3136 — ESSENTIAL DATA STRUCTURES
+COMS W3137 — HONORS DATA STRUCTURES ＆ ALGOL
+Two required courses:
+COMS W3203 — DISCRETE MATHEMATICS
+CSOR W4231 — ANALYSIS OF ALGORITHMS I
+Electives (15 points)
+Select two of the following courses:
+STAT UN3106 — APPLIED MACHINE LEARNING
+STAT GU4206 — STAT COMP ＆ INTRO DATA SCIENCE
+STAT GU4224 — BAYESIAN STATISTICS
+STAT GU4243 — ADVANCED DATA SCIENCE AND ARTIFICIAL INTELLIGENCE
+STAT Q4242 — Advanced Machine Learning
+Select three of the following courses:
+COMS W3261 — COMPUTER SCIENCE THEORY
+COMS W4111 — INTRODUCTION TO DATABASES
+COMS W4236 — INTRO-COMPUTATIONAL COMPLEXITY
+COMS W4252 — INTRO-COMPUTATIONAL LEARN THRY
+Any COMS W47xx course EXCEPT W4771
+
+Code — Title — Points
+MATH UN2015 — Linear Algebra and Probability
+ENGI E1006 — INTRO TO COMP FOR ENG/APP SCI
+or  COMS W1002 — COMPUTING IN CONTEXT
+COMS W2132 — Intermediate Computing in Python
+or  IEOR E2000 — Data Engineering with Python
+IEOR E2000 — Data Engineering with Python
+
+Code — Title — Points
+COMS W4701 — ARTIFICIAL INTELLIGENCE
+
+Code — Title — Points
+Choose one:
+COMS W4710 — Ethical and Responsible AI
+COMS W2702 — AI in Context
+PSYC GU4836 — Machine Intelligence
+ORCS E4201 — Policy for Privacy Technologies
+COMS BC3420 — PRIVACY IN A NETWORKED WORLD
+
+Code — Title — Points
+Choose One:
+Any COMS 47XX course
+Any "relevant COMS 4995/6998 course
+BMEN E4460 — Deep Learning in Biomedical Imaging
+BMEN E4470 — Deep Learning for Biomedical Signal Processing
+BMEN E4480 — Statistical machine learning for genomics
+CBMF W4761 — COMPUTATIONAL GENOMICS
+CHEN E4180 — Machine Learning for Biomolecular and Cellular Applications
+CIEN E4253 — COMP SOLID MECHANICS WITH AI
+CIEN E4256 — Applied Machine Learning in Civil Engineering
+EAEE E4000 — Machine learning for environmental engineering and science
+ECBM E4040 — NEURAL NETWRKS ＆ DEEP LEARNING
+EECS E4764 — Artificial Intelligence of Things (AIoT)
+ELEN E4720 — Machine Learning for Signals, Information and Data
+ELEN E4730 — Quantum Optimization and Machine Learning
+IEOR E4212 — Data Analytics ＆ Machine Learning for OR
+IEOR E4540 — DATA MINING
+MECE E4520 — DATA SCIENCE FOR MECHANICAL SYSTEMS
+MECE E4602 — INTRODUCTION TO ROBOTICS
+ORCS E4200 — Data-driven Decision Modeling
+ORCS E4529 — Reinforcement Learning
+POLS GU4728 — Machine Learning ＆ AI for the Social Sciences
+STAT GU4241 — STATISTICAL MACHINE LEARNING
+STAT GU4242 — ADVANCED MACHINE LEARNING
+STAT GU4243 — ADVANCED DATA SCIENCE AND ARTIFICIAL INTELLIGENCE
+STAT GU4244 — Unsupervised Learning
+
+Code — Title — Points
+COMS W1004 — PROGRAMMING IN JAVA
+or COMS W1007
+COMS W3134 — Data Structures in Java
+or  COMS W3137 — HONORS DATA STRUCTURES ＆ ALGOL
+COMS W3157 — ADVANCED PROGRAMMING
+COMS W3203 — DISCRETE MATHEMATICS
+COMS W3261 — COMPUTER SCIENCE THEORY
+CSEE W3827 — FUNDAMENTALS OF COMPUTER SYSTS (or any 3 point 4000-level computer science course)
+Select one of the following courses:
+COMS W3251 — COMPUTATIONAL LINEAR ALGEBRA
+MATH UN2010 — LINEAR ALGEBRA
+MATH UN2015 — Linear Algebra and Probability
+MATH V2020 — Honors Linear Algebra
+APMA E2101 — INTRO TO APPLIED MATHEMATICS
+APMA E3101 — APPLIED MATH I: LINEAR ALGEBRA
+IEOR E3658 — PROBABILITY FOR ENGINEERS
+STAT UN1201 — CALC-BASED INTRO TO STATISTICS
+STAT GU4001 — INTRODUCTION TO PROBABILITY AND STATISTICS
+
+Guidance for Undergraduate Students in the Department
+
+Program Planning for all Students
+
+The following requirements are new as of the academic year 2023-2024. Students who declared a CS major in the academic year 2022-2023 or earlier have the option to follow the old requirements. The old requirements are noted on
+ the Undergraduate Programs pages
+ of the Computer Science Department website (
+https://www.cs.columbia.edu/education/undergraduate/
+). 
+
+Please note
+ that the information on the department website is more up-to-date than the information in the archived Bulletins. Students with questions about which requirements to follow are advised to talk with ug-advising@cs.columbia.edu.
+
+Course Numbering Structure
+
+The first digit indicates the level of the course, as follows: 
+
+0 
+ Course that cannot be credited toward any degree
+
+1 
+ Undergraduate course
+
+2 
+ Undergraduate course, intermediate
+
+3 
+ Undergraduate course, advanced
+
+4 
+ Graduate course that is open to qualified undergraduates
+
+6 
+ Graduate course
+
+8 
+ Graduate course, advanced
+
+9 
+ Graduate research course or seminar
+
+Guidance for First-Year Students
+ 
+
+Pre-Introductory Courses
+
+COMS W1004 is the first course in the Computer Science major curriculum, and it does not require any previous computing experience.  Before taking COMS W1004, however, students have an option to start with one of the pre-introductory courses: ENGI E1006 or COMS W1002.
+
+ENGI E1006 Introduction to Computing for Engineers and Applied Scientists is a general introduction to computing for STEM students.  ENGI E1006 is in fact a required course for all engineering students.  COMS W1002 Computing in Context is a course primarily intended for humanities majors, but it also serves as a pre-introductory course for CS majors.  ENGI E1006 and COMS W1002 do not count towards Computer Science major.
+
+Guidance for Transfer Students
+ 
+
+Major: 
+Up to four transfer courses are accepted toward the major. Calculus, linear algebra, and probability/statistics courses can be transferred in addition to the four-course limits.
+
+Minor:
+ Up to two transfer courses are accepted toward the minor. A transfer course in linear algebra or probability/statistics counts as one of the two allowed transfers.
+
+Restrictions 
+
+Overlapping courses
+
+Students may receive credit for only one of the following two courses:
+
+COMS W1004
+ Introduction to Computer Science and Programming in Java
+
+COMS W1005
+ Introduction to Computer Science and Programming in MATLAB.
+
+Students may receive credit for only one of the following three courses:
+
+COMS W3134
+ Data Structures in Java
+
+COMS W3136
+ ESSENTIAL DATA STRUCTURES
+
+COMS W3137
+ HONORS DATA STRUCTURES ＆ ALGOL
+
+COMS W1005 and COMS W3136 cannot be counted towards the Computer Science major, minor, and concentration.
+
+No more than 6 points of project/thesis courses (COMS W3902, W3998, W4901) can count toward the major. COMS W3999 Fieldwork cannot be used as a CS Elective.
+
+No more than one course from each set below may be applied towards the computer science major:
+
+ IEOR E3658, STAT UN1201, MATH UN2015
+
+ MATH UN2015, MATH UN2010, APAM E3101, COMS W3251
+
+ COMS W4771, COMS W4721
+
+Double Counting
+
+Double-counting policies are to be construed within the larger double-counting policy of the student's home school. Double-counting policies are detailed on each School's Bulletin and/or Catalog.
+
+The CS department allows the following courses in the CS Core and Mathematics requirement to be double-counted with another major, minor, or concentration. No other courses can be double-counted with another program.
+
+COMS W1004
+
+Any calculus courses (including Honors Math A and B)
+
+One Linear Algebra course
+
+One Probability/Statistics course
+
+D Grades
+
+A maximum of one course worth no more than 4 points passed with a grade of D may be counted toward the major or minor.
+
+Undergraduate Programs of Study
+
+Major in Computer Science
+
+All majors should confer with their program adviser each term to plan their programs of study. Students considering a major in computer science are encouraged to talk to a program adviser during their first or second year. The Computer Science major is composed of four basic components: The Mathematics Requirement, the Computer Science Core, the Area Foundation Courses, and the Computer Science Electives.
+
+Mathematics Requirement (6-11 points)
+
+ 
+Pre-intro course (Optional, 3-4 points)
+
+Computer Science Core (20-21 points):
+
+Area Foundation Courses (9 to 12 points):
+
+Select three from the following list:
+
+Computer Science Electives (9 to 12 points)
+
+Any three COMS courses or jointly offered computer science courses such as CSXX or XXCS course (excluding CSER) that are worth at least 3 points and are at the 3000 level or above. This includes 3000-level courses offered by Barnard CS.
+
+Restrictions
+
+No more than 6 points of project/thesis courses (COMS W3902, W3998, W4901) can count toward the major. COMS W3999 Fieldwork cannot be used as a CS Elective.
+
+No more than one course from each set below may be applied towards the computer science major:
+
+ IEOR E3658, STAT UN1201, MATH UN2015
+
+ MATH UN2015, MATH UN2010, APAM E3101, COMS W3251
+
+ COMS W4771, COMS W4721
+
+Major in Computational Biology
+
+For a description of the joint major in computer science—Biology, see the
+ Biological Sciences
+ section in this bulletin.
+
+ 
+
+Major in Computer Science - Mathematics
+
+For a description of the joint major in computer science—mathematics, see the 
+Mathematics
+ section in this bulletin.
+
+Major in Information Science
+
+The major in information science requires a minimum of 33 points, including a core requirement of five courses. Adjustments were made to the course lists below in March 2022.
+
+The elective courses must be chosen with a faculty adviser to focus on the modeling and use of information within the context of a disciplinary theme. After discussing potential selections, students prepare a proposal of study that must be approved by the faculty adviser. In all cases, the six courses must be at the 3000 level or above, with at least three courses chosen from computer science. Following are some example programs. For more examples or templates for the program proposal, see a faculty adviser.
+
+Note: In most cases, additional courses will be necessary as prerequisites in order to take some of the elective courses. This will depend on the student's proposed program of study.
+
+Core Requirement
+
+Following are some suggested programs of instruction:
+
+Information Science and Contemporary Society
+
+Students may focus on how humans use technology and how technology has changed society.
+
+The requirements include:
+
+Information Science and the Economy
+
+Students may focus on understanding information modeling together with existing and emerging needs in economics and finance as well as algorithms and systems to address those needs.
+
+The requirements include:
+
+Information Science and Health Sciences
+
+Students may focus on understanding information modeling together with existing and emerging needs in health sciences, as well as algorithms and systems to address those needs.
+
+The requirements include:
+
+Major in Data Science
+
+In response to the ever-growing importance of "big data" in scientific and policy endeavors, the last few years have seen explosive growth in theory, methods, and applications at the interface between computer science and statistics. The statistics and computer science departments have responded with a joint major that emphasizes the interface between the disciplines.
+
+Minor in Computer Science 
+
+Students who pass the Computer Science Advanced Placement Exam A with a 4 or 5 will receive 3 points and an exemption from COMS W1004. 
+
+The Computer Science Minor consists of 6 courses as follows:
+
+1. COMS W1004: Intro to computer science and programming in Java (3) 
+or COMS W1007: Honors intro to comp sci (3)
+
+2. COMS W3134: Data structures in Java (3) or COMS W3137: Honors data structures and algorithms (4)
+
+3. COMS W3203: Discrete mathematics (4)
+
+4. One course of the following:
+
+COMS W3157: Advanced programming (4)
+
+COMS W3261: Comp science theory (3)
+
+CSEE W3827: Fundamentals of computer systems (3)
+
+5. Any 3000-level or 4000-level COMS/CSXX/XXCS course of at least 3 points
+
+6. Any 3000-level or 4000-level COMS/CSXX/XXCS course of at least 3 points OR one 
+linear algebra or probability/statistics course from the following
+: APMA E3101, APMA E2101, MATH UN2010, MATH UN2015, IEOR E3658, STAT UN1201, STAT GU4001 
+or STAT GU4203
+.
+
+Restrictions
+
+Students pursuing a major or minor offered solely or jointly by the Computer Science department -- which currently include Computer Science major & minor, Information Science major, Data Science major, Computer Science and Mathematics major, and Computational Biology major -- are not eligible for the Artificial Intelligence minor.
+
+No more than 6 points of project/thesis courses (COMS W3902, W3998, W4901) can count toward the major. COMS W3999 Fieldwork cannot be used as a CS Elective.
+
+No more than one course from each set below may be applied towards the computer science major:
+
+ IEOR E3658, STAT UN1201, MATH UN2015
+
+ MATH UN2015, MATH UN2010, APAM E3101, COMS W3251
+
+ COMS W4771, COMS W4721
+
+​Minor in Artificial Intelligence
+
+The Minor in Artificial Intelligence consists of 6 courses as follows:
+
+AI Requirement:
+
+Ethics Requirement:
+
+AI Elective:
+
+MATH UN2015 may be substituted with a separate linear algebra course 
+and 
+a separate probability course, as with the CS Core.
+
+Students pursuing a major or minor offered solely or jointly by the Computer Science department -- which currently include Computer Science major & minor, Information Science major, Data Science major, Computer Science and Mathematics major, and Computational Biology major -- are not eligible for the Artificial Intelligence minor.
+
+For students who entered Columbia in or before the 2023-24 academic year 
+
+ 
+
+Concentration in Computer Science
+
+The concentration in computer science requires a minimum of 22-24 points, as follows:

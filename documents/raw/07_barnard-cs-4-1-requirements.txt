@@ -1,0 +1,173 @@
+The Barnard/Columbia University 4+1 Pathways provide an option for students to make progress on graduate study while still an undergraduate, under the guidance of Barnard and Columbia advisors who help them develop their plans for accelerated completion of a masters degree. The Computer Science 4+1 pathway will enable Barnard students to obtain a BA from Barnard and an MS from Columbia in a combined five years.  
+
+Overview
+
+Barnard students majoring or minoring in Computer Science are eligible to apply for the Computer Science 4+1 pathway during their junior year.  Accepted students will be given a Barnard Computer Science 4+1 advisor and have access to Columbia MS advisors; they can work with their Barnard and Columbia advisors to determine a study plan to enable completion of the MS in their 5th year. 
+
+The Columbia CS MS requires 30 points (10 classes).  The student should expect to take 24 of these points during her 5th year (8 classes).  To ensure appropriate progress for completion of the MS in year 5, the student should take 6 points (2 classes) of advanced CS classes (4000-level) beyond the undergraduate requirements during her fourth year or a summer session.  These should be chosen with the requirements of the CS MS in mind, ideally already focusing on a specific track within the MS.
+
+Application requirements
+
+To be eligible, a student must have a cumulative GPA of at least 3.50. To apply, students must submit:
+
+Official transcripts
+
+Personal statement
+
+Resume or CV
+
+Contact information for three references
+
+No GRE test is required, and no application fee is required.  Students apply in the Spring semester of their junior year, with an application deadline of February 15.  Notifications of acceptance decisions are expected by the end of May. Students are expected to continue to maintain a GPA of at least 3.50.  
+
+Students can apply through the 
+SEAS application portal
+ under “Barnard 4+1 Pathways for Accelerated Graduate Study."
+
+Curriculum
+
+Both the CS BA and the 
+CS MS
+ require choosing a “track” to focus on.  There are many specific ways to instantiate the CS 4+1 pathway, but care must be taken to meet the requirements of both the undergrad track and the MS track, including paying attention to prerequisite requirements if the student wishes to avoid taking extra credits.  
+Note: To be counted toward the MS, classes taken while still enrolled at Barnard must not be used for any Barnard requirements (major, GER, and overall credit requirements).  
+If a specific course is required for both the BA and the MS, it can be considered to meet both requirements, but the points can only be counted once and must be “replaced” with additional appropriate classes as described in the policies of Columbia’s MS in Computer Science program.  For undergraduates who minor in CS, extra care will need to be taken to develop a plan that enables completion of the MS within one additional year of study.
+
+Sample course plans
+
+There are many ways to fulfill the requirements for the Barnard BA and Columbia MS in Computer Science.  To demonstrate feasibility, we provide two sample course plans for years 3, 4, and 5, noting that there are also other ways to fulfill the requirements for these combinations of tracks.  
+In these sample plans, we assume that five of the seven undergraduate computer science “core” courses are completed before year 3, and we assume that Calculus 2 or 3 and all additional Barnard requirements are met in years 1 and 2 or as one of the “electives” in year 3.
+  Note also that students may consider any combination of tracks; the MS track need not be the same as the BA track.  
+
+Sample plan 1: Software Systems track for both the BA and the MS.       
+
+Fall - Year 3
+
+Spring - Year 3
+
+CS BA core class
+
+COMS W4115
+
+CS BA core class
+
+BA software system elective
+
+3000-level COMS course
+
+elective(s)
+
+elective(s)
+
+ 
+
+ 
+
+ 
+
+Fall - Year 4
+
+Spring - Year 4
+
+COMS W4118
+
+CSEE W4119
+
+4000-level MS software system elective
+
+4000-level MS software system elective
+
+elective(s)
+
+elective(s)
+
+ 
+
+ 
+
+Fall - Year 5
+
+Spring - Year 5
+
+COMS W4156
+
+6000-level MS software system elective
+
+4000-level MS software system elective
+
+6000-level MS software system elective
+
+4000-level MS software system elective
+
+MS AI and apps breadth course
+
+MS theory breadth course
+
+graduate-level technical elective
+
+Sample plan 2: Foundations of Computer Science track for the BA, and Machine Learning track for the MS.
+
+Fall - Year 3
+
+Spring - Year 3
+
+CS BA core class
+
+CSOR W4231
+
+CS BA core class
+
+BA CS foundations elective
+
+3000-level COMS course
+
+elective(s)
+
+elective(s)
+
+ 
+
+ 
+
+ 
+
+Fall - Year 4
+
+Spring - Year 4
+
+COMS W4236
+
+BA CS foundations elective
+
+4000-level MS track course group A
+
+4000-level MS track course group A or B
+
+elective(s)
+
+elective(s)
+
+ 
+
+ 
+
+Fall - Year 5
+
+Spring - Year 5
+
+MS systems breadth course
+
+6000-level MS ML track elective
+
+4000-level MS ML track elective
+
+6000-level technical elective
+
+graduate-level technical elective
+
+graduate-level technical elective
+
+graduate-level technical elective
+
+graduate-level technical elective
+
+Version of 12/8/2022

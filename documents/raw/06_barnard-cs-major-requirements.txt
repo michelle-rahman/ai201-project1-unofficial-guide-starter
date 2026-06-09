@@ -1,0 +1,136 @@
+Computer Science is the study of the foundations and applications of computing, algorithms, and their capabilities. Computer Science majors at Barnard study the foundations and applications of computing, as well as addressing the societal implications of computing technology. Through upper-level courses at Barnard and Columbia, students acquire the flexibility needed in a rapidly changing field. Students are prepared to engage in both applied and theoretical developments in computer science, to think critically both using computing and about computing, and to harness computing for social good, for scientific research, for the creative arts, and more.
+
+Students with no background in computer science may wish to take COMS BC1016 Introduction to Computational Thinking and Data Science (3 pts) and corequisite lab COMS BC1017 (1 pt), though it is not required and does not count towards the major.
+
+Requirements for Students Who Entered Barnard Fall 2023 or After
+
+The Computer Science major consists of 14-15 courses (a minimum of 44 points) distributed as follows:
+
+COMPUTER SCIENCE CORE
+ (6 required courses)
+
+COMS BC1014 Introduction to Computer Science and Programming in Java (3 pts)
+
+COMS W3134 Data Structures in Java (3 pts)
+
+COMS W3157 Advanced Programming (4 pts)
+
+COMS W3203 Discrete Mathematics (4 pts)
+
+COMS W3261 Computer Science Theory (3 pts)
+
+CSEE W3827 Fundamentals of Computer Systems (3 pts)
+
+MATHEMATICS REQUIREMENTS
+ (A, B, and C)
+
+A.
+ CALCULUS III / MULTIVARIABLE CALCULUS (select one of the following)
+
+MATH UN1201 Calculus III (3 pts)
+
+MATH UN1205 Accelerated Multivariable Calculus (4 pts)
+
+APMA E2000 Multivariable Calculus for ENGI＆ APP SCI (4 pts)
+
+**MATH UN1201 requires Calculus I as a prerequisite but does NOT require Calculus II. MATH UN1205 and APMA E2000, however, require both Calculus I and Calculus II as prerequisites.
+
+B.
+ LINEAR ALGEBRA (select one of the following)
+
+COMS W3251 Computational Linear Algebra (4 pts)
+
+APMA E3101 Applied Math I: Linear Algebra (3 pts)
+
+APMA E2101 Intro to Applied Mathematics (3 pts)
+
+MATH UN2010 Linear Algebra (3 pts)
+
+MATH UN2015 Linear Algebra and Probability (3 pts)
+
+C.
+ PROBABILITY (select one of the following)
+
+STAT UN1201 Calc-Based Intro to Statistics (3 pts)
+
+STAT GU4001 Introduction to Probability and Statistics (3 pts)
+
+IEOR E3658 Probability for Engineers (3 pts)
+
+MATH UN2015 Linear Algebra and Probability (3 pts)
+
+**MATH UN2015 can double count for Linear Algebra and Probability requirements. This is the ONLY instance in which a course can double count for multiple major requirements.
+
+AREA FOUNDATION COURSES (AFC)
+
+Select three courses from the following list:
+
+COMS BC3159 Parallel Optimization for Robotics (3 pts)
+
+COMS BC3160 Computer Graphics (3 pts)
+
+COMS BC3705 Natural Language Processing (3 pts)
+
+COMS W4111 Introduction to Databases (3 pts)
+
+COMS W4113 Fund-Large-Scale Dist Systems (3 pts)
+
+COMS W4115 Programming Lang ＆ Translators (3 pts)
+
+COMS W4118 Operating Systems I (3 pts)
+
+CSEE W4119 Computer Networks (3 pts)
+
+COMS W4152 Engineering Software-as-a-Service (3 pts)
+
+COMS W4156 Advanced Software Engineering (3 pts)
+
+COMS W4160 Computer Graphics (3 pts)
+
+COMS W4167 Computer Animation (3 pts)
+
+COMS W4170 User Interface Design (3 pts)
+
+COMS W4181 Security I (3 pts)
+
+CSOR W4231 Analysis of Algorithms I (3 pts)
+
+COMS W4236 Intro-Computational Complexity (3 pts)
+
+COMS W4701 Artificial Intelligence (3 pts)
+
+COMS W4705 Natural Language Processing (3 pts)
+
+COMS W4731 Computer Vision I: First Principles (3 pts)
+
+COMS W4733 Computational Aspects of Robotics (3 pts)
+
+CBMF W4761 Computational Genomics (3 pts)
+
+COMS W4771 Machine Learning (3 pts)
+
+CSEE W4824 Computer Architecture (3 pts)
+
+CSEE W4868 System-on-Chip Platforms (3 pts)
+
+COMPUTER SCIENCE ELECTIVES
+
+3 COMS courses or jointly listed CS courses such as CSXX/ XXCS that are at the 3000 level or higher and are at least 3-point courses. These can be Barnard or Columbia courses.
+
+ 
+
+Requirements for Students Who Entered Barnard Before Fall 2023
+
+Students who joined Barnard before Fall 2023 follow the older, track-based Computer Science curriculum, though current students can switch to the new version with approval. The track-based Computer Science major consists of 13-14 courses (a minimum of 41 points). For requirements, see the 
+Catalogue
+.
+
+ 
+
+Major in Mathematics-Computer Science
+
+This interdepartmental major provides substantial background in each of these two disciplines. For a description of the joint Mathematics–Computer Science major, see Mathematics in the 
+Catalogue
+. Math-CS majors are managed by the 
+Mathematics Department
+ but you will need a major adviser in both departments.

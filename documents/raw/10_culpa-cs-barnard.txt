@@ -1,0 +1,163 @@
+Professor Antonio Moretti — Computer Science (Barnard).
+
+Courses taught: COMS BC1017 Introduction to Computational Thinking and Data Science - Lab, COMS BC1016 Introduction to Computational Thinking and Data Science, COMS BC3162 DEVELOPING ACCESSIBLE USER INTERFACES.
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science (rating 1): this guy absolutely sucks never take his classes he does not know how to teach and he is infuriating Workload: assignments had nothing to do with the lectures and vice versa so i taught myself all of the content, grading was different compared to which TA you got, he never gave me feedback on my final project
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science (rating 3): Agree with the previous review; Professor Moretti is a really nice guy, but what he goes over in lecture is confusing rarely related to data science. He mostly taught derivations and linear algebra. It can be intimidating, especially for someone with no coding background even though this class doesn't have any prerequisites. However, if you read the text book, you should be fine. The textbook was developed specifically for this course so all of the information in there is relevant to the HWs and Projects. You actually learn tons of useful skills in this class by reading the textbook and doing the homeworks. The final project was really fun. We got to pick any dataset we wanted and analyze it in whatever way we chose. Workload: Average workload
+
+10 HWs, 1 every week 
+2 projects (basically like longer more complicated hws)
+capstone project - pick a dataset and do some analysis on it (not a lot of guidelines, very open ended)
+weekly lab
+participation
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science (rating 3): He's a really nice guy, but the lectures are extremely unhelpful. It's pretty clear that he wants to be teaching a more advanced class, so he teaches that class. Basically, what he goes over is mostly unrelated to the weekly HW and labs. The textbook is pretty helpful in filling in these gaps. This class is also a stolen version of a Berkeley course (data8) that has lectures on Youtube, so definitely check those out if you are ever confused. Workload: Weekly HW and labs and three longer projects. Pretty manageable throughout with stuff earlier in the semester (before the stats stuff) being significantly easier than HW in the later half.
+
+===== DOC BREAK =====
+
+Professor Rebecca Wright — Computer Science (Barnard).
+
+Courses taught: AFRS BC3099 INDEPENDENT STUDY, COMS BC3997 NEW DIRECTIONS IN COMPUTING, COMS BC3420 PRIVACY IN A NETWORKED WORLD.
+
+===== DOC BREAK =====
+
+Professor Sarah Morrison-Smith — Computer Science (Barnard).
+
+Courses taught: COMS BC3162 DEVELOPING ACCESSIBLE USER INTERFACES.
+
+===== DOC BREAK =====
+
+Professor Brian Plancher — Computer Science (Barnard).
+
+Overview of student reviews: Students seem to regard Professor Plancher as a kind and enthusiastic instructor, particularly passionate about robotics and systems. Many appreciate his engaging lectures, real-world applications, and willingness to help students. However, some reviews mention concerns about course organization, potential grade inflation, and repetitive content. The first midterm's difficulty and subsequent make-up options were points of contention. Workload generally consists of problem sets graded on completion, in-class midterms, and sometimes a take-home coding exam and a final project.
+
+Courses taught: CSEE W3826 Fundamentals of Computer Organization, CSEE W3827 Fundamentals of Computer Systems, AFRS BC3099 INDEPENDENT STUDY, COMS BC3997 NEW DIRECTIONS IN COMPUTING, COMS BC3159 Parallel Optimization for Robotics, ENGI E0001 INTRO TO ROBOTICS.
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 3): Took this in Spring 2025. The content wasn't hard, it very doable to learn and study. However, I don't think he's the best lecturer and, I guess, organizer of the class. After the first midterm which was hard and not impossible, he said there would be a makeup midterm. This caused a sort of unfair system for students who put a lot of work into the initial midterm to begin with. The takehome and final were reasonable, but the makeups for the final and the midterm and the makeup midterm seemed unfair to me, and I'm sure caused students extra preparation time compared to others.
+
+Anyways, the content was good, and probably easier than Kim and Rubenstein. Overall not bad. Workload: 6 problem sets graded on completion for 20%, two midterms for 30% each, one take home coding exam for 20%.
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 4): There was quite a bit of repetitive content for each class. A decent amount of time during lectures were also taken by answering students' questions that were usually also repetitive. His slides are really pretty though! He's a really nice person. Though the first midterm was very hard, there was a make up. The two midterms after were fair game. Overall not a bad prof. Workload: 6 bi-weekly psets graded on completion; 2 in-class midterms (one being a non-cumulative final) and 1 take-home coding assessment.
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 3): The content was very repetitive and honestly he's not the greatest lecturer. He's a really nice guy, and the material clicks logically. However, that doesn't translate into being a good class. Every lecture seemed to repeat itself, rather than going into examples that would make sense and help students succeed on the homework. The powerpoints were good diagrams and visual aids, but lacked substance and equations were difficult to find. VERY opaque about grading schemes and had a strange midterm 1 makeup, even though grades for midterm 1 were already curved. This caused a dual-curve system that led to extremely inflated grades, and thus, bad outcomes for students who put work into the course. A 93/100 in the course corresponded to an A-. Extremely unfair curve system. Workload: 6 problem sets, graded on completion and causing grade inflation. Two midterms, both difficult and longer than the time that we have for the exam itself. One take home midterm for coding. Regrade requests are always ignored.
+
+Review for CSEE W3826 Fundamentals of Computer Organization (rating 2): The professor has a kind demeanor and teaches well, but I am dissatisfied with the way the class is managed.
+By accommodating repeated requests for make-up exams, it seems that the rest of the students are put at a disadvantage — especially when make-up exams are held up to ten days later, giving some students a longer preparation period. It feels like too much consideration is being given to convenience, which leads to issues of fairness.
+Additionally, I don’t quite understand why recovery exams are allowed when everyone originally took the same test. I believe this creates a reverse discrimination against those who performed well the first time. Workload: As long as you show that you put in effort, you can get a good grade on assignments.
+However, I think this professor is actually one of the hardest to get a high overall grade from, more than you'd expect.
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 5): Brian is great. He’s an incredibly nice professor and is really passionate about systems and robotics. He’s also a great professor who teaches well and deeply cares about students’ feed back. This was his first semester teaching the class so there were some hiccups regarding the first midterm (it was way too long) as noted by a previous review. He made up for this. Our second midterm (take-home for assembly) was a reasonable amount of work and fun, especially discovering the bonus. The third midterm (ie. The final) was very reasonable too even though it was probably the hardest material. Finally, on the last day of class we had the chance to retake the first midterm which was a looot more reasonable. That is, if he’s teaching a future class, don’t worry about what you might have heard about the first midterm. Workload: 6 psets, not super long or difficult but are good review and preparation for tests. 3 midterms, where the second one is a take home for assembly and the third one is the “final” (standard structure for fundies). We had practice tests from Kim and Rubinstein since this was his first time teaching the class, but the tests were definitely closer in content and difficulty to Kim’s than Rubinstein’s (ie. on the easier side). 
+
+Not sure if Brian is going to be teaching this course more, but if he is, then highly highly recommend!
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 3): He's a very nice and approachable teacher, and I found him to be super helpful with everything I asked beyond just this class. Our first midterm was very long and the FSM problem was relatively difficult and so he actually gave the class an option for a redo midterm. Overall the content of this class moves very quickly and towards the end of each lecture becomes very difficult. Overall, he was a good teacher and I found the real issue for me was just the actual curriculum and course content which he has no say over. Otherwise this class was challenging but I enjoyed it a lot and really learned a lot from how he taught it and this emphasis about how Computer Engineering is all about tradeoffs. My best advice for anyone taking this class with him or anyone else is to start studying early and make sure you fully understand concepts in lecture because everything in this class will continue to build on what you learned before. Workload: We had about 6 problem sets graded on completion that are very useful for exam prep worth 20%, then two in class midterms worth 30% each, and one take home coding exam worth 20%.
+
+Review for CSEE W3827 Fundamentals of Computer Systems (rating 3): Brian is a nice guy. HOWEVER that doe not translate to being a good professor. I just took the midterm and it was more traumatizing than AP. At least with AP you go in expecting to be tricked and do terribly. Brian smiles and fools you into thinking you are prepared. But you are NOT. The exam was the length and difficulty of a pset that takes us 2 weeks to complete. Workload: psets graded on completion; frustrating because you dont know if your answer (different from answer key bc there are so many possible solutions) would be accepted as correct on an exam or not
+
+Review for COMS BC3159 Parallel Optimization for Robotics (rating 5): Brian is enthusiastic, kind, understanding, and receptive to feedback. I took his class because of the CULPA reviews, not knowing anything about the material. It turns out, the course content is the most useful out of all the CS courses I've taken so far. If you want to understand NVIDIA, GPU programming (essential in AI), and advanced robot algorithms, take this course! The lectures were recorded, though most people showed up to class because he's an engaging lecturer. There were 3 problem sets, each consisting of a conceptual and coding portion which were very doable by using the lecture slides and going to OH. For each problem set, he sets aside one class time for the class to work on it together and ask him questions. The midterm exam was harder than the problem sets but definitely doable. The final research project felt a bit high-pressure because we only had a month to do the whole thing, but it was a useful experience to get a glimpse of what robotics/GPU research is like. You should take this course if you don't want to be worried about your grade (he's generous) and want to learn in a super collaborative, exciting environment. Workload: Spent 3-5 hours per problem set, ~8 hours studying for the midterm, 2.5 hours/week in lectures, and about 20 hours on the final project.
+
+Review for COMS BC3159 Parallel Optimization for Robotics (rating 4): Chaotic good. I thought that this was generally a nice course. Brian is one of the kindest and most approachable professors out there. He genuinely cares about you and wants you to succeed and the class material is genuinely interesting. However, one quirk about this class is that there was no ssh established for it, and there was less math proof and practice than I would have preferred. However, Brian did try to compensate for these as much as possible because this isn’t technically a math class. Workload: 35% Problem Sets
+30% Exam
+30% Final Project Presentation, Report, and other Milestones
+5% Attendance, Collaboration, and Participation
+
+Review for COMS BC3159 Parallel Optimization for Robotics (rating 4): The course is a must for anyone interested in the field of robotics and/or parallel computing! The course is an intersection of linear algebra, algorithms, computer hardware, and lots of silly robot videos. While the content can seem daunting at first, Brian is extremely patient & approachable and will do anything in his power to support his students. I especially appreciated his Pset Parties where we could collaborate + help one another and get clarification on lecture material. The material learned in class is highly applicable to cutting-edge robotics research and provides a strong foundation for interviews at companies like Nvidia. Highly recommend this class to any CS major/minor :) Workload: We had 3 problem sets, each consisting of a written and a coding portion, a midterm, and a final project. Grading is prompt and fair. I spent around 4-6 hours on assignments every week.
+
+Review for COMS BC3997 NEW DIRECTIONS IN COMPUTING (rating 5): Professor Plancher is a great lecturer and brought really interesting guest speakers who provided a very well rounded introduction to various aspects of computer science development. He is really accommodating, kind and has his students' best interest at heart. He is passionate about his teaching which is evident in class. Workload: Very fair workload that helped me structure my independent research better so I wasn't overwhelmed at the end of the semester.
+
+Review for ENGI E0001 INTRO TO ROBOTICS (rating 5): I didn't expect much going into this class, I just wanted to dip my toes into the water of robotics. However, thanks to Brian, I am deep in the ocean! Brian is very understanding and he cares about your education! He makes the materials that seem very complicated to very simple for you to digest even just a little bit. He's honestly a great mentor and a kind human being that will make you feel cared for and continue to push through the obstacles.
+
+This course is pretty similar to AI but less of the math, more of the practice of the search algorithm! I was just looking back at my notes and his slides the other day for another project and admire how much I've learnt from this class. Workload: Tbh, the material is difficult, but it's the nature of it. I went to his office hours only sometimes and he's always always always helpful! It wasn't too difficult that I had to be at his OH every single time. Everything is definitely doable on your own! The grades are mostly if you finished the coding assignment, no hidden testing or anything, very generous grades given. Sometimes I felt like I didn't even deserve the grades he gave me, but he sees your effort and that's what really matter!!
+
+Any of his class is highly recommended!!!!!!!!
+
+Review for COMS BC3159 Parallel Optimization for Robotics (rating 5): I was expecting this class to be kind of boring because robotics wasn't my interest, BUT IT IS NOW. Brian really makes the hard-to-swallow material nice and easy to digest. It is the nature of the material to be a little more difficult as robotics is its own thing. I found the materials that I've learned from this class is actually super relevant to the real world, as this is pretty much what NVIDIA is doing. Learning CUDA and parallel programming will be the most valuable and most useful thing you will be doing for yourself. SO TAKE THIS CLASS FOR SURE!
+
+That's not even the best part!?!? THE BEST PART IS BRIAN! He's the kindest, most understanding, and caring person/professor I have ever met. He changed how I think about robotics and he would be the sole reason why I'm a lot more comfortable stepping into robotics and will be pursuing robotics in the future. HE WANTS YOU TO LEARN! HE CARES! Personally, robotics is difficult by nature, but the way he explains just makes so much sense. Just do yourself a favor and take the class. Workload: The workload is quite reasonable, I didn't feel like it was taking over my life like CST, Fundies, nor AP. It was the right amount of workload for you to practice applying the lectures. His grading is quite generous, he focuses on how much you understand the materials overall, not how much details you can list.
+
+===== DOC BREAK =====
+
+Professor Adam Poliak — Computer Science (Barnard).
+
+Courses taught: COMS BC1017 Introduction to Computational Thinking and Data Science - Lab, COMS BC1016 Introduction to Computational Thinking and Data Science.
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science: Adam Poliak is one of the nicest and most approachable instructors I've met, and the perfect instructor for an intro-level course to CS. He is incredibly patient and ALWAYS willing to answer questions, even if it stretches past OH/lab time. Despite doing this course with a 12-hour time difference in Fall 2020, I always felt supported: Prof Poliak practically had Calendly slots every day across a range of times and would literally reply to me at 12am and 6am EST on Slack (not that I think instructors should feel pressured to reply asap but I really appreciated his readiness to help). 
+In terms of workload, the class was super straightforward and it is easy to get an A/A+ if you just go to class, do the readings and assignments. No curveballs or anything outside of what was taught. The assignments also have extremely thorough skeletons and guidelines, so you know exactly what to code at every stage. Prof Poliak is also a really good, clear teacher and I could still easily follow his lectures at x2 speed. Even though our course has ended, he still uses the Slack to inform up about research opportunities, lectures and workshops, which is so rare and so nice. 
+Adam Poliak is a gem and you should take his intro classes!!!!
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science: He's really dorky and because he's super new he tries really hard to be both accessible and also fair with grading. We had virtual office hours at 9 pm some weekday nights because he knew that's when students are studying. Literal explanations-wise he could have been clearer but the textbook is stellar and the TA's were good so it ended up being okay. Also, if you go to office hours he puts a lot of effort. Also, because he's new, teaching the class is his biggest priority, which translates to being super available on Slack and responding to questions very quickly. I have a lot of faith that his teaching will get better with practice and I'll definitely take courses he teaches in the future. All that being said, the course was so much as an immersive course (for someone who hasn't coded before, if you have previous experience in data science/stats/python, it would be easier for you). I'd suggest taking it if it's offered as a full semester course though because we learned really cool stuff and saw real-life applications of what we were learning through each data set.
+
+===== DOC BREAK =====
+
+Professor Lisa Soros — Computer Science (Barnard).
+
+Courses taught: COMS BC1017 Introduction to Computational Thinking and Data Science - Lab, COMS BC1016 Introduction to Computational Thinking and Data Science, COMS BC3997 NEW DIRECTIONS IN COMPUTING.
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science (rating 2): I expected the professor to show up to class and know how to teach---Lisa Soros did not meet these expectations. She consistently did not show up to class without warning so my classmates and I would sit there for an hour doing other work and complaining about her incompetence. This class felt like a waste of tuition because it was an online Berkeley course and the professor didn't teach us anyway (could have easily learned the limited Python we did by myself). Honestly, the worst teacher I have ever had because even when she did show up, she did NOT want to be there and would mumble through information we were already self-teaching ourselves with (so not helpful at all). Class attendance was low because of this but I showed up alongside a few other students just to see if we did something helpful (we never did). Workload: You will end with an A if you get a 92 or above. I ended with an A, but regardless, the professor was terrible and did not help at all no matter what (office hours, after class, via email, etc.). We had no homework for the first four weeks and the rest of the term was disorganized. She was never clear about what the midterm would be and kept changing her answer about it until two weeks before. Because of this, the workload was usually light besides overstudying for a mystery midterm and dealing with a final project without help or guidance (and being completely new to coding---this class is intended for new coders). The final project is worth 50% of the grade which added to the stress of this course. I don't think she will be teaching this class again, so at least for the next term, people can actually learn from a professor and not have to figure it out on their own and be extremely frustrated with this professor's incompetence the entire term.
+
+Review for COMS BC1016 Introduction to Computational Thinking and Data Science (rating 2): I have very mixed feelings about this class. Soros is nice and helpful in office hours, but the dwindling attendance throughout the semester should tell you that she's not the most engaging lecturer. The curriculum is imported from Berkeley and available completely online, so the only incentive to go to class is the small participation credit. Overall, the professor is just okay, and the course needs serious restructuring. Workload: Ten weekly homeworks and ten assignments completed in the lab section that were the same format as the homework. Everything is graded by the TAs, who also maintain the Ed discussion board. Some assignments were definitely easier than others and could be completed in less than an hour, while others were tedious because of small mistakes with nondescript errors from the Jupyter auto-grader.
+
+===== DOC BREAK =====
+
+COMS BC1017 Introduction to Computational Thinking and Data Science - Lab — Computer Science (Barnard).
+
+Number of reviews: 0.
+
+Professors who have taught it: Antonio Moretti, Adam Poliak, Lisa Soros.
+
+===== DOC BREAK =====
+
+COMS BC1016 Introduction to Computational Thinking and Data Science — Computer Science (Barnard).
+
+Number of reviews: 8.
+
+Professors who have taught it: Antonio Moretti, Lisa Soros, Adam Poliak, Tiffany Tseng.
+
+===== DOC BREAK =====
+
+COMS BC3997 NEW DIRECTIONS IN COMPUTING — Computer Science (Barnard).
+
+Number of reviews: 1.
+
+Professors who have taught it: Rebecca Wright, Brian Plancher, Mark Santolucito, Lisa Soros.
+
+===== DOC BREAK =====
+
+COMS BC3930 Creative Embedded Systems — Computer Science (Barnard).
+
+Number of reviews: 2.
+
+Professors who have taught it: Mark Santolucito, Tiffany Tseng.
+
+===== DOC BREAK =====
+
+COMS BC3420 PRIVACY IN A NETWORKED WORLD — Computer Science (Barnard).
+
+Number of reviews: 0.
+
+Professors who have taught it: Rebecca Wright.
+
+===== DOC BREAK =====
+
+COMS BC3162 DEVELOPING ACCESSIBLE USER INTERFACES — Computer Science (Barnard).
+
+Number of reviews: 0.
+
+Professors who have taught it: Sarah Morrison-Smith, Antonio Moretti.
+
+===== DOC BREAK =====
+
+COMS BC3159 Parallel Optimization for Robotics — Computer Science (Barnard).
+
+Number of reviews: 4.
+
+Professors who have taught it: Brian Plancher.
+
+===== DOC BREAK =====
+
+COMS BC3430 Computational Sound — Computer Science (Barnard).
+
+Number of reviews: 2.
+
+Professors who have taught it: Mark Santolucito.
