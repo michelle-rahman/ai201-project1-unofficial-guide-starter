@@ -1,10 +1,5 @@
 # Project 1 Planning: The Unofficial Guide
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
-
 ---
 
 ## Domain
@@ -19,16 +14,16 @@ This knowledge is valuable because it automates the process of Computer Science 
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Columbia CS Overview | An overview of the Computer Science major at Columbia University | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#text |
-| 2 | Columbia CS Faculty | A list of the CS Faculty / Professors at Columbia University | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#facultytext |
-| 3 | Columbia CS Requirements | An overview of the Computer Science major requirements at Columbia University | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#requirementstext |
-| 4 | Columbia CS Course Catalog | A list of Computer Science courses at Columbia University | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#coursestext |
-| 5 | Barnard CS Course Catalog | A list of Computer Science courses at Barnard College | https://cs.barnard.edu/course-catalogue |
-| 6 | Barnard CS Major Requirements | An overview of the Computer Science major requirements at Barnard College | https://cs.barnard.edu/major-requirements |
+| 1 | Columbia CS Overview | An overview of the Computer Science major at Columbia | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#text |
+| 2 | Columbia CS Faculty | A list of the CS Faculty / Professors at Columbia | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#facultytext |
+| 3 | Columbia CS Requirements | An overview of the Computer Science major requirements at Columbia | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#requirementstext |
+| 4 | Columbia CS Course Catalog | A list of Computer Science courses at Columbia | https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/#coursestext |
+| 5 | Barnard CS Course Catalog | A list of Computer Science courses at Barnard | https://cs.barnard.edu/course-catalogue |
+| 6 | Barnard CS Major Requirements | An overview of the Computer Science major requirements at Barnard | https://cs.barnard.edu/major-requirements |
 | 7 | Barnard CS 4+1 Requirements | A list of requirements for the Computer Science BA/MS 4+1 with Barnard College and Columbia Engineering | https://cs.barnard.edu/4-1-computer-science |
 | 8 | CS Courses Being Offered for Fall of 2026 | A list of Computer Science courses that are available for students to enroll in the fall of 2026 | https://doc.sis.columbia.edu/sel/COMS_Fall2026_text.html |
 | 9 | Culpa: CS @ CU Courses and Professors | Student reviews of Computer Science courses and professors at Columbia | https://culpa.info/department/7?code=COMS |
-| 10 |Culpa: CS @ BC Courses and Professors | tudent reviews of Computer Science courses and professors at Barnard | https://culpa.info/department/147?code=COMB |
+| 10 | Culpa: CS @ BC Courses and Professors | Student reviews of Computer Science courses and professors at Barnard | https://culpa.info/department/147?code=COMB |
 
 ---
 
@@ -76,10 +71,6 @@ In production, I would consider using a larger or more domain-strong embedding m
 ---
 
 ## Anticipated Challenges
-
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
 
 1. The bulletin pages are highly structured but dense, so chunk boundaries could split a rule from the requirement it modifies, such as prerequisites, double-counting notes, or course-list conditions. That could cause the retriever to return a course without the limiting context needed to interpret it correctly.
 
