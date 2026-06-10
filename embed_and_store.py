@@ -23,8 +23,15 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import textwrap
 from pathlib import Path
+
+# all-MiniLM-L6-v2 is already cached locally; default to offline so retrieval never
+# blocks on HuggingFace's (throttled) CDN. Set before importing anything that loads the
+# model. Override by exporting HF_HUB_OFFLINE=0 if you ever need to re-download.
+os.environ.setdefault("HF_HUB_OFFLINE", "1")
+os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
 
 import chromadb
 from chromadb.utils import embedding_functions
@@ -67,15 +74,25 @@ def _embedding_fn():
     )
 
 
-def get_collection():
+_collection = None
+
+
+def get_collection(fresh: bool = False):
     """Return the persistent collection, creating it if it does not yet exist.
-    Imported by generate.py (Milestone 5) so it shares one source of truth."""
-    client = chromadb.PersistentClient(path=CHROMA_DIR)
-    return client.get_or_create_collection(
-        name=COLLECTION_NAME,
-        embedding_function=_embedding_fn(),
-        metadata=COLLECTION_METADATA,
-    )
+    Imported by generate.py (Milestone 5) so it shares one source of truth.
+
+    The result is cached so the embedding model loads only once per process (important
+    for the interactive UI, which would otherwise reload it on every query). Pass
+    fresh=True after dropping the collection during a rebuild."""
+    global _collection
+    if _collection is None or fresh:
+        client = chromadb.PersistentClient(path=CHROMA_DIR)
+        _collection = client.get_or_create_collection(
+            name=COLLECTION_NAME,
+            embedding_function=_embedding_fn(),
+            metadata=COLLECTION_METADATA,
+        )
+    return _collection
 
 
 # --------------------------------------------------------------------------- #
@@ -117,7 +134,7 @@ def build(rebuild: bool = False) -> None:
         except Exception:
             pass  # nothing to drop
 
-    collection = get_collection()
+    collection = get_collection(fresh=rebuild)
     records = load_chunks()
     print(f"Loaded {len(records)} chunks from {CHUNKS_PATH}")
     print(f"Embedding with {EMBED_MODEL} -> ChromaDB ({CHROMA_DIR}/)")
@@ -141,25 +158,42 @@ def build(rebuild: bool = False) -> None:
 # Retrieval (pipeline stage 4) — the function Milestone 5 imports
 # --------------------------------------------------------------------------- #
 
-def retrieve(query: str, k: int = TOP_K) -> list[dict]:
+def _query(collection, query: str, n: int, where: dict | None = None) -> list[dict]:
+    """One similarity search → list of {"id","text","metadata","distance"} hits."""
+    res = collection.query(
+        query_texts=[query],
+        n_results=n,
+        where=where,
+        include=["documents", "metadatas", "distances"],
+    )
+    return [
+        {"id": cid, "text": doc, "metadata": meta, "distance": dist}
+        for cid, doc, meta, dist in zip(
+            res["ids"][0], res["documents"][0], res["metadatas"][0], res["distances"][0]
+        )
+    ]
+
+
+def retrieve(query: str, k: int = TOP_K,
+             ensure_sources: list[int] | None = None, per_source: int = 3) -> list[dict]:
     """Return the top-k most similar chunks to `query`.
 
     Each result: {"id", "text", "metadata", "distance"} where smaller distance
-    means more similar (cosine distance in [0, 2])."""
+    means more similar (cosine distance in [0, 2]).
+
+    `ensure_sources` guarantees representation from specific source_ids by running an
+    extra metadata-filtered search per source and merging the results (deduped). This
+    is how questions about Fall 2026 offerings (source 8) surface the actual course
+    listings, which a plain semantic search buries under the ~1800 Culpa review chunks
+    because the terse listing text matches natural-language questions weakly."""
     collection = get_collection()
-    res = collection.query(
-        query_texts=[query],
-        n_results=k,
-        include=["documents", "metadatas", "distances"],
-    )
-    hits = []
-    for cid, doc, meta, dist in zip(
-        res["ids"][0],
-        res["documents"][0],
-        res["metadatas"][0],
-        res["distances"][0],
-    ):
-        hits.append({"id": cid, "text": doc, "metadata": meta, "distance": dist})
+    hits = _query(collection, query, k)
+    seen = {h["id"] for h in hits}
+    for sid in ensure_sources or []:
+        for h in _query(collection, query, per_source, where={"source_id": sid}):
+            if h["id"] not in seen:
+                seen.add(h["id"])
+                hits.append(h)
     return hits
 
 
