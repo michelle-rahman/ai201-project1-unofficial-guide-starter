@@ -1,9 +1,4 @@
-# The Unofficial Guide — Project 1
-
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+# [RAG] The Unofficial Guide — Columbia CS Major Courses
 
 ---
 
@@ -16,10 +11,6 @@ This knowledge is valuable because it automates the process of Computer Science 
 ---
 
 ## Document Sources
-
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
 
 | # | Source | Description | URL or file path |
 |---|--------|-------------|-----------------|
@@ -38,13 +29,6 @@ This knowledge is valuable because it automates the process of Computer Science 
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
-
 **Chunk size:**
 Token-based (measured with the all-MiniLM-L6-v2 tokenizer). Tuned per source type: 500 tokens for Columbia Bulletin and Barnard pages, 275 for the Fall 2026 offerings page and 400 for Culpa reviews. 
 
@@ -61,12 +45,6 @@ The embedding model only encodes ~256 tokens per chunk, so chunks stay small. Th
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
-
 **Model used:**
 sentence-transformers/all-MiniLM-L6-v2 — a small, fast, local (no API key, no cost) sentence-embedding model with a 384-dimensional output and a ~256-token input window. Chosen because it runs entirely offline on CPU, is well-suited to short retrieval passages, and is more than capable for a 10-document corpus.
 
@@ -76,13 +54,6 @@ If cost weren't a constraint and this served real users, the main thing I'd revi
 ---
 
 ## Grounded Generation
-
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
 
 **System prompt grounding instruction:**
 
@@ -99,10 +70,6 @@ Attribution is built programmatically in code, not left to the model. After retr
 
 ## Evaluation Report
 
-<!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
-     valuable than a suspiciously perfect result. -->
-
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | "Which courses have the best student reviews for satisfying my CS elective requirement?" | Return only CS electives that have high course and/or professor ratings on Culpa. Do not return any core classes. | Returned four CS courses. Two of which were core classes and the other two were electives. | Partially Relevant | Partially Accurate |
@@ -117,17 +84,6 @@ Attribution is built programmatically in code, not left to the model. After retr
 ---
 
 ## Failure Case Analysis
-
-<!-- Identify at least one question where retrieval or generation did not work as expected.
-     Write a specific explanation of *why* it failed, tied to a part of the pipeline.
-
-     "The answer was wrong" is not an explanation.
-
-     "The relevant information was split across a chunk boundary, so retrieval returned
-     only half the context — the model didn't have enough to answer correctly" is an explanation.
-
-     "The embedding model treated the professor's nickname as out-of-vocabulary and returned
-     results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
 "What courses are being offered in the fall 2026 semester that I can use to satisfy my area foundations requirements?"
@@ -145,9 +101,6 @@ I'd stop relying on the LLM to join the two lists and instead do the intersectio
 
 ## Spec Reflection
 
-<!-- Reflect on how planning.md shaped your implementation.
-     Answer both questions with at least 2–3 sentences each. -->
-
 **One way the spec helped you during implementation:**
 Writing the Chunking Strategy and Retrieval Approach sections up front meant the per-source-type chunk sizes (larger for dense bulletin prose, smaller for the list-like Fall 2026 offerings page) and the top-k=7 + all-MiniLM-L6-v2 choices were already decided before I wrote any code, so I could hand them straight to the AI tool and get an implementation that matched my intent instead of guessing. The Anticipated Challenges note about Culpa being link-index pages also pushed me to pull review content rather than ingesting directory pages, which is exactly the noise problem I'd flagged. And the 5 evaluation questions doubled as my built-in --test harness, so I had a ready way to check the system end-to-end.
 
@@ -159,15 +112,6 @@ The spec's architecture diagram named GPT-4o / Claude via LangChain for generati
 ---
 
 ## AI Usage
-
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
-
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 
 **Instance 1**
 
